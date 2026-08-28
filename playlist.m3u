@@ -1,13 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_washington-mystics-vs-phoenix-mercury_Washington_Mystics_vs_Phoenix_" group-title="Basketball", Washington Mystics vs Phoenix Mercury (WNBA)
-https://streamfree.top/embed/basketball/washington-mystics-vs-phoenix-mercury
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_elche-vs-racing-santander_Elche_vs_Racing_Santander" group-title="Soccer", Elche vs Racing Santander (La Liga)
+https://streamfree.top/embed/soccer/elche-vs-racing-santander
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_arizona-diamondbacks-vs-san-francisco-giants_Arizona_Diamondbacks_vs_San_Fr" group-title="Baseball", Arizona Diamondbacks vs San Francisco Giants (MLB)
-https://streamfree.top/embed/baseball/arizona-diamondbacks-vs-san-francisco-giants
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_vfb-stuttgart-vs-bayern-munich_VfB_Stuttgart_vs_Bayern_Munich" group-title="Soccer", VfB Stuttgart vs Bayern Munich (Bundesliga)
+https://streamfree.top/embed/soccer/vfb-stuttgart-vs-bayern-munich
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_los-angeles-rams-vs-los-angeles-chargers_Los_Angeles_Rams_vs_Los_Angele" group-title="Football", Los Angeles Rams vs Los Angeles Chargers (NFL)
-https://streamfree.top/embed/football/los-angeles-rams-vs-los-angeles-chargers
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_venezia-vs-ac-milan_Venezia_vs_AC_Milan" group-title="Soccer", Venezia vs AC Milan (Serie A)
+https://streamfree.top/embed/soccer/venezia-vs-ac-milan
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_paris-saint-germain-vs-lille_Paris_Saint-Germain_vs_Lille" group-title="Soccer", Paris Saint-Germain vs Lille (Ligue 1)
+https://streamfree.top/embed/soccer/paris-saint-germain-vs-lille
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_cincinnati-reds-vs-chicago-cubs_Cincinnati_Reds_vs_Chicago_Cub" group-title="Baseball", Cincinnati Reds vs Chicago Cubs (MLB)
+https://streamfree.top/embed/baseball/cincinnati-reds-vs-chicago-cubs
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
 https://streamfree.top/embed/racing/skyf1
