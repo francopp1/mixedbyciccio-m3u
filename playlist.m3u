@@ -1,53 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_golden-state-valkyries-vs-new-york-liberty_Golden_State_Valkyries_vs_New_" group-title="Basketball", Golden State Valkyries vs New York Liberty (WNBA)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
-https://streamfree.top/embed/basketball/golden-state-valkyries-vs-new-york-liberty
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_washington-mystics-vs-phoenix-mercury_Washington_Mystics_vs_Phoenix_" group-title="Basketball", Washington Mystics vs Phoenix Mercury (WNBA)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
 https://streamfree.top/embed/basketball/washington-mystics-vs-phoenix-mercury
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_arizona-diamondbacks-vs-san-francisco-giants_Arizona_Diamondbacks_vs_San_Fr" group-title="Baseball", Arizona Diamondbacks vs San Francisco Giants (MLB)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
 https://streamfree.top/embed/baseball/arizona-diamondbacks-vs-san-francisco-giants
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_houston-astros-vs-new-york-yankees_Houston_Astros_vs_New_York_Yan" group-title="Baseball", Houston Astros vs New York Yankees (MLB)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
-https://streamfree.top/embed/baseball/houston-astros-vs-new-york-yankees
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_kansas-city-royals-vs-toronto-blue-jays_Kansas_City_Royals_vs_Toronto_" group-title="Baseball", Kansas City Royals vs Toronto Blue Jays (MLB)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
-https://streamfree.top/embed/baseball/kansas-city-royals-vs-toronto-blue-jays
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_milwaukee-brewers-vs-new-york-mets_Milwaukee_Brewers_vs_New_York_" group-title="Baseball", Milwaukee Brewers vs New York Mets (MLB)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
-https://streamfree.top/embed/baseball/milwaukee-brewers-vs-new-york-mets
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_los-angeles-dodgers-vs-atlanta-braves_Los_Angeles_Dodgers_vs_Atlanta" group-title="Baseball", Los Angeles Dodgers vs Atlanta Braves (MLB)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
-https://streamfree.top/embed/baseball/los-angeles-dodgers-vs-atlanta-braves
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_pittsburgh-steelers-vs-buffalo-bills_Pittsburgh_Steelers_vs_Buffalo" group-title="Football", Pittsburgh Steelers vs Buffalo Bills (NFL)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
-https://streamfree.top/embed/football/pittsburgh-steelers-vs-buffalo-bills
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_new-england-patriots-vs-cleveland-browns_New_England_Patriots_vs_Clevel" group-title="Football", New England Patriots vs Cleveland Browns (NFL)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
-https://streamfree.top/embed/football/new-england-patriots-vs-cleveland-browns
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_san-francisco-49ers-vs-las-vegas-raiders_San_Francisco_49ers_vs_Las_Veg" group-title="Football", San Francisco 49ers vs Las Vegas Raiders (NFL)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
-https://streamfree.top/embed/football/san-francisco-49ers-vs-las-vegas-raiders
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_los-angeles-rams-vs-los-angeles-chargers_Los_Angeles_Rams_vs_Los_Angele" group-title="Football", Los Angeles Rams vs Los Angeles Chargers (NFL)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
 https://streamfree.top/embed/football/los-angeles-rams-vs-los-angeles-chargers
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
 https://streamfree.top/embed/racing/skyf1
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/cricket_ac38ed2a-92dd-4b08-be0b-3cfaefb09b98_Willow" group-title="Cricket", Willow (WILLOW)
-#EXTVLCOPT:http-referrer=https://streamfree.top/
 https://streamfree.top/embed/cricket/willow
