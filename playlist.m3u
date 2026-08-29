@@ -1,26 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_parma-vs-juventus_Parma_vs_Juventus" group-title="Soccer", Parma vs Juventus (Serie A)
-https://streamfree.top/embed/soccer/parma-vs-juventus
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_angers-vs-aj-auxerre_Angers_vs_AJ_Auxerre" group-title="Soccer", Angers vs AJ Auxerre (Ligue 1)
-https://streamfree.top/embed/soccer/angers-vs-aj-auxerre
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_toulouse-vs-brest_Toulouse_vs_Brest" group-title="Soccer", Toulouse vs Brest (Ligue 1)
-https://streamfree.top/embed/soccer/toulouse-vs-brest
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_troyes-vs-lorient_Troyes_vs_Lorient" group-title="Soccer", Troyes vs Lorient (Ligue 1)
-https://streamfree.top/embed/soccer/troyes-vs-lorient
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_le-havre-ac-vs-lyon_Le_Havre_AC_vs_Lyon" group-title="Soccer", Le Havre AC vs Lyon (Ligue 1)
-https://streamfree.top/embed/soccer/le-havre-ac-vs-lyon
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_atlético-madrid-vs-sevilla_Atlético_Madrid_vs_Sevilla" group-title="Soccer", Atlético Madrid vs Sevilla (La Liga)
-https://streamfree.top/embed/soccer/atlético-madrid-vs-sevilla
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_chicago-fire-fc-vs-seattle-sounders-fc_Chicago_Fire_FC_vs_Seattle_Sou" group-title="Soccer", Chicago Fire FC vs Seattle Sounders FC (MLS)
-https://streamfree.top/embed/soccer/chicago-fire-fc-vs-seattle-sounders-fc
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_charlotte-fc-vs-atlanta-united-fc_Charlotte_FC_vs_Atlanta_United" group-title="Soccer", Charlotte FC vs Atlanta United FC (MLS)
 https://streamfree.top/embed/soccer/charlotte-fc-vs-atlanta-united-fc
 
@@ -107,9 +86,6 @@ https://streamfree.top/embed/baseball/baltimore-orioles-vs-athletics
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_philadelphia-phillies-vs-los-angeles-angels_Philadelphia_Phillies_vs_Los_A" group-title="Baseball", Philadelphia Phillies vs Los Angeles Angels (MLB)
 https://streamfree.top/embed/baseball/philadelphia-phillies-vs-los-angeles-angels
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_san-josé-state-spartans-vs-usc-trojans_San_José_State_Spartans_vs_USC" group-title="Football", San José State Spartans vs USC Trojans (NCAAF)
-https://streamfree.top/embed/football/san-josé-state-spartans-vs-usc-trojans
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_nc-state-wolfpack-vs-virginia-cavaliers_NC_State_Wolfpack_vs_Virginia_" group-title="Football", NC State Wolfpack vs Virginia Cavaliers (NCAAF)
 https://streamfree.top/embed/football/nc-state-wolfpack-vs-virginia-cavaliers
