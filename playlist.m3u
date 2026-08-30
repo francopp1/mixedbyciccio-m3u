@@ -1,34 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_new-england-revolution-vs-columbus-crew_New_England_Revolution_vs_Colu" group-title="Soccer", New England Revolution vs Columbus Crew (MLS)
-https://streamfree.top/embed/soccer/new-england-revolution-vs-columbus-crew
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_fc-dallas-vs-st-louis-city-sc_FC_Dallas_vs_St_Louis_CITY_SC" group-title="Soccer", FC Dallas vs St. Louis CITY SC (MLS)
 https://streamfree.top/embed/soccer/fc-dallas-vs-st-louis-city-sc
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_los-angeles-sparks-vs-seattle-storm_Los_Angeles_Sparks_vs_Seattle_" group-title="Basketball", Los Angeles Sparks vs Seattle Storm (WNBA)
-https://streamfree.top/embed/basketball/los-angeles-sparks-vs-seattle-storm
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_golden-state-valkyries-vs-portland-fire_Golden_State_Valkyries_vs_Port" group-title="Basketball", Golden State Valkyries vs Portland Fire (WNBA)
 https://streamfree.top/embed/basketball/golden-state-valkyries-vs-portland-fire
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_connecticut-sun-vs-dallas-wings_Connecticut_Sun_vs_Dallas_Wing" group-title="Basketball", Connecticut Sun vs Dallas Wings (WNBA)
 https://streamfree.top/embed/basketball/connecticut-sun-vs-dallas-wings
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_miami-marlins-vs-washington-nationals_Miami_Marlins_vs_Washington_Na" group-title="Baseball", Miami Marlins vs Washington Nationals (MLB)
-https://streamfree.top/embed/baseball/miami-marlins-vs-washington-nationals
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_texas-rangers-vs-milwaukee-brewers_Texas_Rangers_vs_Milwaukee_Bre" group-title="Baseball", Texas Rangers vs Milwaukee Brewers (MLB)
-https://streamfree.top/embed/baseball/texas-rangers-vs-milwaukee-brewers
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_houston-astros-vs-new-york-mets_Houston_Astros_vs_New_York_Met" group-title="Baseball", Houston Astros vs New York Mets (MLB)
-https://streamfree.top/embed/baseball/houston-astros-vs-new-york-mets
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_baltimore-orioles-vs-athletics_Baltimore_Orioles_vs_Athletics" group-title="Baseball", Baltimore Orioles vs Athletics (MLB)
-https://streamfree.top/embed/baseball/baltimore-orioles-vs-athletics
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_philadelphia-phillies-vs-los-angeles-angels_Philadelphia_Phillies_vs_Los_A" group-title="Baseball", Philadelphia Phillies vs Los Angeles Angels (MLB)
-https://streamfree.top/embed/baseball/philadelphia-phillies-vs-los-angeles-angels
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_cincinnati-reds-vs-chicago-cubs_Cincinnati_Reds_vs_Chicago_Cub" group-title="Baseball", Cincinnati Reds vs Chicago Cubs (MLB)
 https://streamfree.top/embed/baseball/cincinnati-reds-vs-chicago-cubs
