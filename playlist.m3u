@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_málaga-vs-real-madrid_Málaga_vs_Real_Madrid" group-title="Soccer", Málaga vs Real Madrid (La Liga)
-https://streamfree.top/embed/soccer/málaga-vs-real-madrid
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_le-mans-vs-stade-rennais_Le_Mans_vs_Stade_Rennais" group-title="Soccer", Le Mans vs Stade Rennais (Ligue 1)
-https://streamfree.top/embed/soccer/le-mans-vs-stade-rennais
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_ipswich-town-vs-manchester-united_Ipswich_Town_vs_Manchester_Uni" group-title="Soccer", Ipswich Town vs Manchester United (Premier League)
-https://streamfree.top/embed/soccer/ipswich-town-vs-manchester-united
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_schalke-04-vs-fc-augsburg_Schalke_04_vs_FC_Augsburg" group-title="Soccer", Schalke 04 vs FC Augsburg (Bundesliga)
-https://streamfree.top/embed/soccer/schalke-04-vs-fc-augsburg
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_como-vs-napoli_Como_vs_Napoli" group-title="Soccer", Como vs Napoli (Serie A)
-https://streamfree.top/embed/soccer/como-vs-napoli
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_valencia-vs-deportivo_Valencia_vs_Deportivo" group-title="Soccer", Valencia vs Deportivo (La Liga)
 https://streamfree.top/embed/soccer/valencia-vs-deportivo
 
