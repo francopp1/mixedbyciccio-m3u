@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_fc-dallas-vs-st-louis-city-sc_FC_Dallas_vs_St_Louis_CITY_SC" group-title="Soccer", FC Dallas vs St. Louis CITY SC (MLS)
-https://streamfree.top/embed/soccer/fc-dallas-vs-st-louis-city-sc
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_golden-state-valkyries-vs-portland-fire_Golden_State_Valkyries_vs_Port" group-title="Basketball", Golden State Valkyries vs Portland Fire (WNBA)
-https://streamfree.top/embed/basketball/golden-state-valkyries-vs-portland-fire
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_connecticut-sun-vs-dallas-wings_Connecticut_Sun_vs_Dallas_Wing" group-title="Basketball", Connecticut Sun vs Dallas Wings (WNBA)
-https://streamfree.top/embed/basketball/connecticut-sun-vs-dallas-wings
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_cincinnati-reds-vs-chicago-cubs_Cincinnati_Reds_vs_Chicago_Cub" group-title="Baseball", Cincinnati Reds vs Chicago Cubs (MLB)
-https://streamfree.top/embed/baseball/cincinnati-reds-vs-chicago-cubs
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
 https://streamfree.top/embed/racing/skyf1
 
