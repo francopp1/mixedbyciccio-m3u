@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_as-roma-vs-lecce_AS_Roma_vs_Lecce" group-title="Soccer", AS Roma vs Lecce (Serie A)
-https://streamfree.top/embed/soccer/as-roma-vs-lecce
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_getafe-vs-osasuna_Getafe_vs_Osasuna" group-title="Soccer", Getafe vs Osasuna (La Liga)
-https://streamfree.top/embed/soccer/getafe-vs-osasuna
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_bologna-vs-atalanta_Bologna_vs_Atalanta" group-title="Soccer", Bologna vs Atalanta (Serie A)
-https://streamfree.top/embed/soccer/bologna-vs-atalanta
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_arsenal-vs-aston-villa_Arsenal_vs_Aston_Villa" group-title="Soccer", Arsenal vs Aston Villa (Premier League)
-https://streamfree.top/embed/soccer/arsenal-vs-aston-villa
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_rayo-vallecano-vs-barcelona_Rayo_Vallecano_vs_Barcelona" group-title="Soccer", Rayo Vallecano vs Barcelona (La Liga)
-https://streamfree.top/embed/soccer/rayo-vallecano-vs-barcelona
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_san-francisco-giants-vs-atlanta-braves_San_Francisco_Giants_vs_Atlant" group-title="Baseball", San Francisco Giants vs Atlanta Braves (MLB)
 https://streamfree.top/embed/baseball/san-francisco-giants-vs-atlanta-braves
 
