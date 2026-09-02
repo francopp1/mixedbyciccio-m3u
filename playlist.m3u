@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_venezia-vs-udinese_Venezia_vs_Udinese" group-title="Soccer", Venezia vs Udinese (Coppa Italia)
-https://streamfree.top/embed/soccer/venezia-vs-udinese
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_wrexham-vs-millwall_Wrexham_vs_Millwall" group-title="Soccer", Wrexham vs Millwall (EFL Championship)
 https://streamfree.top/embed/soccer/wrexham-vs-millwall
 
@@ -18,9 +15,6 @@ https://streamfree.top/embed/soccer/bayern-munich-vs-vfl-osnabruck
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_middlesbrough-vs-burnley_Middlesbrough_vs_Burnley" group-title="Soccer", Middlesbrough vs Burnley (EFL Championship)
 https://streamfree.top/embed/soccer/middlesbrough-vs-burnley
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_san-diego-padres-vs-cincinnati-reds_San_Diego_Padres_vs_Cincinnati" group-title="Baseball", San Diego Padres vs Cincinnati Reds (MLB)
-https://streamfree.top/embed/baseball/san-diego-padres-vs-cincinnati-reds
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_new-york-mets-vs-tampa-bay-rays_New_York_Mets_vs_Tampa_Bay_Ray" group-title="Baseball", New York Mets vs Tampa Bay Rays (MLB)
 https://streamfree.top/embed/baseball/new-york-mets-vs-tampa-bay-rays
 
@@ -29,9 +23,6 @@ https://streamfree.top/embed/baseball/san-francisco-giants-vs-pittsburgh-pirates
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_toronto-blue-jays-vs-cleveland-guardians_Toronto_Blue_Jays_vs_Cleveland" group-title="Baseball", Toronto Blue Jays vs Cleveland Guardians (MLB)
 https://streamfree.top/embed/baseball/toronto-blue-jays-vs-cleveland-guardians
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_atlanta-braves-vs-washington-nationals_Atlanta_Braves_vs_Washington_N" group-title="Baseball", Atlanta Braves vs Washington Nationals (MLB)
-https://streamfree.top/embed/baseball/atlanta-braves-vs-washington-nationals
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_seattle-mariners-vs-boston-red-sox_Seattle_Mariners_vs_Boston_Red" group-title="Baseball", Seattle Mariners vs Boston Red Sox (MLB)
 https://streamfree.top/embed/baseball/seattle-mariners-vs-boston-red-sox
