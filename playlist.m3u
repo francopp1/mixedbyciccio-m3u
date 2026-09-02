@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/combat_dana-whites-contender-series-season-10-week-4_Dana_Whites_Contender_Series_S" group-title="Combat", Dana White's Contender Series: Season 10, Week 4 (UFC)
-https://streamfree.top/embed/combat/dana-whites-contender-series-season-10-week-4
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_frosinone-vs-sassuolo_Frosinone_vs_Sassuolo" group-title="Soccer", Frosinone vs Sassuolo (Coppa Italia)
+https://streamfree.top/embed/soccer/frosinone-vs-sassuolo
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_venezia-vs-udinese_Venezia_vs_Udinese" group-title="Soccer", Venezia vs Udinese (Coppa Italia)
+https://streamfree.top/embed/soccer/venezia-vs-udinese
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_san-francisco-giants-vs-pittsburgh-pirates_San_Francisco_Giants_vs_Pittsb" group-title="Baseball", San Francisco Giants vs Pittsburgh Pirates (MLB)
 https://streamfree.top/embed/baseball/san-francisco-giants-vs-pittsburgh-pirates
