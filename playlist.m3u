@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_wrexham-vs-millwall_Wrexham_vs_Millwall" group-title="Soccer", Wrexham vs Millwall (EFL Championship)
-https://streamfree.top/embed/soccer/wrexham-vs-millwall
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_cardiff-city-vs-queens-park-rangers_Cardiff_City_vs_Queens_Park_Ra" group-title="Soccer", Cardiff City vs Queens Park Rangers (EFL Championship)
-https://streamfree.top/embed/soccer/cardiff-city-vs-queens-park-rangers
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_charlton-athletic-vs-west-bromwich-albion_Charlton_Athletic_vs_West_Brom" group-title="Soccer", Charlton Athletic vs West Bromwich Albion (EFL Championship)
-https://streamfree.top/embed/soccer/charlton-athletic-vs-west-bromwich-albion
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_bayern-munich-vs-vfl-osnabruck_Bayern_Munich_vs_VfL_Osnabruck" group-title="Soccer", Bayern Munich vs VfL Osnabruck (DFB-Pokal)
-https://streamfree.top/embed/soccer/bayern-munich-vs-vfl-osnabruck
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_middlesbrough-vs-burnley_Middlesbrough_vs_Burnley" group-title="Soccer", Middlesbrough vs Burnley (EFL Championship)
-https://streamfree.top/embed/soccer/middlesbrough-vs-burnley
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_new-york-mets-vs-tampa-bay-rays_New_York_Mets_vs_Tampa_Bay_Ray" group-title="Baseball", New York Mets vs Tampa Bay Rays (MLB)
 https://streamfree.top/embed/baseball/new-york-mets-vs-tampa-bay-rays
 
@@ -36,9 +21,6 @@ https://streamfree.top/embed/baseball/miami-marlins-vs-kansas-city-royals
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_milwaukee-brewers-vs-chicago-cubs_Milwaukee_Brewers_vs_Chicago_C" group-title="Baseball", Milwaukee Brewers vs Chicago Cubs (MLB)
 https://streamfree.top/embed/baseball/milwaukee-brewers-vs-chicago-cubs
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_athletics-vs-texas-rangers_Athletics_vs_Texas_Rangers" group-title="Baseball", Athletics vs Texas Rangers (MLB)
-https://streamfree.top/embed/baseball/athletics-vs-texas-rangers
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_chicago-white-sox-vs-houston-astros_Chicago_White_Sox_vs_Houston_A" group-title="Baseball", Chicago White Sox vs Houston Astros (MLB)
 https://streamfree.top/embed/baseball/chicago-white-sox-vs-houston-astros
 
@@ -47,9 +29,6 @@ https://streamfree.top/embed/baseball/baltimore-orioles-vs-colorado-rockies
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_new-york-yankees-vs-los-angeles-angels_New_York_Yankees_vs_Los_Angele" group-title="Baseball", New York Yankees vs Los Angeles Angels (MLB)
 https://streamfree.top/embed/baseball/new-york-yankees-vs-los-angeles-angels
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_philadelphia-phillies-vs-arizona-diamondbacks_Philadelphia_Phillies_vs_Arizo" group-title="Baseball", Philadelphia Phillies vs Arizona Diamondbacks (MLB)
-https://streamfree.top/embed/baseball/philadelphia-phillies-vs-arizona-diamondbacks
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_st-louis-cardinals-vs-los-angeles-dodgers_St_Louis_Cardinals_vs_Los_Ange" group-title="Baseball", St. Louis Cardinals vs Los Angeles Dodgers (MLB)
 https://streamfree.top/embed/baseball/st-louis-cardinals-vs-los-angeles-dodgers
