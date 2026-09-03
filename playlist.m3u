@@ -1,16 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_new-york-mets-vs-tampa-bay-rays_New_York_Mets_vs_Tampa_Bay_Ray" group-title="Baseball", New York Mets vs Tampa Bay Rays (MLB)
-https://streamfree.top/embed/baseball/new-york-mets-vs-tampa-bay-rays
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_mantova-vs-palermo_Mantova_vs_Palermo" group-title="Soccer", Mantova vs Palermo (Coppa Italia)
+https://streamfree.top/embed/soccer/mantova-vs-palermo
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_san-francisco-giants-vs-pittsburgh-pirates_San_Francisco_Giants_vs_Pittsb" group-title="Baseball", San Francisco Giants vs Pittsburgh Pirates (MLB)
 https://streamfree.top/embed/baseball/san-francisco-giants-vs-pittsburgh-pirates
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_toronto-blue-jays-vs-cleveland-guardians_Toronto_Blue_Jays_vs_Cleveland" group-title="Baseball", Toronto Blue Jays vs Cleveland Guardians (MLB)
 https://streamfree.top/embed/baseball/toronto-blue-jays-vs-cleveland-guardians
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_detroit-tigers-vs-minnesota-twins_Detroit_Tigers_vs_Minnesota_Tw" group-title="Baseball", Detroit Tigers vs Minnesota Twins (MLB)
-https://streamfree.top/embed/baseball/detroit-tigers-vs-minnesota-twins
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_miami-marlins-vs-kansas-city-royals_Miami_Marlins_vs_Kansas_City_R" group-title="Baseball", Miami Marlins vs Kansas City Royals (MLB)
 https://streamfree.top/embed/baseball/miami-marlins-vs-kansas-city-royals
