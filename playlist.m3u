@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_ac-milan-vs-juventus_AC_Milan_vs_Juventus" group-title="Soccer", AC Milan vs Juventus (Serie A)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_paris-fc-vs-marseille_Paris_FC_vs_Marseille" group-title="Soccer", Paris FC vs Marseille (Ligue 1)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_sevilla-vs-espanyol_Sevilla_vs_Espanyol" group-title="Soccer", Sevilla vs Espanyol (La Liga)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_san-francisco-giants-vs-new-york-mets_San_Francisco_Giants_vs_New_Yo" group-title="Baseball", San Francisco Giants vs New York Mets (MLB)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_tampa-bay-rays-vs-texas-rangers_Tampa_Bay_Rays_vs_Texas_Ranger" group-title="Baseball", Tampa Bay Rays vs Texas Rangers (MLB)
 
 
@@ -19,24 +7,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_atlanta-braves-vs-philadelphia-phillies_Atlanta_Braves_vs_Philadelphia" group-title="Baseball", Atlanta Braves vs Philadelphia Phillies (MLB)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_los-angeles-angels-vs-pittsburgh-pirates_Los_Angeles_Angels_vs_Pittsbur" group-title="Baseball", Los Angeles Angels vs Pittsburgh Pirates (MLB)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_boston-red-sox-vs-baltimore-orioles_Boston_Red_Sox_vs_Baltimore_Or" group-title="Baseball", Boston Red Sox vs Baltimore Orioles (MLB)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_chicago-cubs-vs-miami-marlins_Chicago_Cubs_vs_Miami_Marlins" group-title="Baseball", Chicago Cubs vs Miami Marlins (MLB)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_detroit-tigers-vs-cleveland-guardians_Detroit_Tigers_vs_Cleveland_Gu" group-title="Baseball", Detroit Tigers vs Cleveland Guardians (MLB)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_arizona-diamondbacks-vs-houston-astros_Arizona_Diamondbacks_vs_Housto" group-title="Baseball", Arizona Diamondbacks vs Houston Astros (MLB)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_toronto-blue-jays-vs-kansas-city-royals_Toronto_Blue_Jays_vs_Kansas_Ci" group-title="Baseball", Toronto Blue Jays vs Kansas City Royals (MLB)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_st-louis-cardinals-vs-colorado-rockies_St_Louis_Cardinals_vs_Colorado" group-title="Baseball", St. Louis Cardinals vs Colorado Rockies (MLB)
