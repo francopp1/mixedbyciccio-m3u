@@ -1,18 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_lecce-vs-cagliari_Lecce_vs_Cagliari" group-title="Soccer", Lecce vs Cagliari (Serie A)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_celta-vigo-vs-getafe_Celta_Vigo_vs_Getafe" group-title="Soccer", Celta Vigo vs Getafe (La Liga)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_new-york-mets-vs-miami-marlins_New_York_Mets_vs_Miami_Marlins" group-title="Baseball", New York Mets vs Miami Marlins (MLB)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_atlanta-braves-vs-philadelphia-phillies_Atlanta_Braves_vs_Philadelphia" group-title="Baseball", Atlanta Braves vs Philadelphia Phillies (MLB)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_minnesota-twins-vs-chicago-white-sox_Minnesota_Twins_vs_Chicago_Whi" group-title="Baseball", Minnesota Twins vs Chicago White Sox (MLB)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_los-angeles-angels-vs-boston-red-sox_Los_Angeles_Angels_vs_Boston_R" group-title="Baseball", Los Angeles Angels vs Boston Red Sox (MLB)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_washington-nationals-vs-los-angeles-dodgers_Washington_Nationals_vs_Los_An" group-title="Baseball", Washington Nationals vs Los Angeles Dodgers (MLB)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_wisconsin-badgers-vs-notre-dame-fighting-irish_Wisconsin_Badgers_vs_Notre_Dam" group-title="Football", Wisconsin Badgers vs Notre Dame Fighting Irish (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_louisville-cardinals-vs-ole-miss-rebels_Louisville_Cardinals_vs_Ole_Mi" group-title="Football", Louisville Cardinals vs Ole Miss Rebels (NCAAF)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_cleveland-guardians-vs-baltimore-orioles_Cleveland_Guardians_vs_Baltimo" group-title="Baseball", Cleveland Guardians vs Baltimore Orioles (MLB)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
