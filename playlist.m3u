@@ -18,9 +18,6 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_lens-vs-slavia-prague_Lens_vs_Slavia_Prague" group-title="Soccer", Lens vs Slavia Prague (Champions League)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_pittsburgh-pirates-vs-chicago-white-sox_Pittsburgh_Pirates_vs_Chicago_" group-title="Baseball", Pittsburgh Pirates vs Chicago White Sox (MLB)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_texas-rangers-vs-seattle-mariners_Texas_Rangers_vs_Seattle_Marin" group-title="Baseball", Texas Rangers vs Seattle Mariners (MLB)
 
 
@@ -31,6 +28,15 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_tampa-bay-rays-vs-atlanta-braves_Tampa_Bay_Rays_vs_Atlanta_Brav" group-title="Baseball", Tampa Bay Rays vs Atlanta Braves (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_pittsburgh-pirates-vs-chicago-white-sox_Pittsburgh_Pirates_vs_Chicago_" group-title="Baseball", Pittsburgh Pirates vs Chicago White Sox (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_florida-am-rattlers-vs-miami-hurricanes_Florida_AM_Rattlers_vs_Miami_H" group-title="Football", Florida A&M Rattlers vs Miami Hurricanes (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_san-francisco-49ers-vs-los-angeles-rams_San_Francisco_49ers_vs_Los_Ang" group-title="Football", San Francisco 49ers vs Los Angeles Rams (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
