@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_bologna-vs-napoli_Bologna_vs_Napoli" group-title="Soccer", Bologna vs Napoli (Serie A)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_deportivo-vs-getafe_Deportivo_vs_Getafe" group-title="Soccer", Deportivo vs Getafe (La Liga)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_juventus-vs-sassuolo_Juventus_vs_Sassuolo" group-title="Soccer", Juventus vs Sassuolo (Serie A)
 
 
@@ -22,9 +16,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_philadelphia-union-vs-san-diego-fc_Philadelphia_Union_vs_San_Dieg" group-title="Soccer", Philadelphia Union vs San Diego FC (MLS)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_colorado-rockies-vs-detroit-tigers_Colorado_Rockies_vs_Detroit_Ti" group-title="Baseball", Colorado Rockies vs Detroit Tigers (MLB)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_los-angeles-angels-vs-washington-nationals_Los_Angeles_Angels_vs_Washingt" group-title="Baseball", Los Angeles Angels vs Washington Nationals (MLB)
@@ -85,9 +76,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_chicago-bears-vs-carolina-panthers_Chicago_Bears_vs_Carolina_Pant" group-title="Football", Chicago Bears vs Carolina Panthers (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_cleveland-browns-vs-jacksonville-jaguars_Cleveland_Browns_vs_Jacksonvil" group-title="Football", Cleveland Browns vs Jacksonville Jaguars (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_buffalo-bills-vs-houston-texans_Buffalo_Bills_vs_Houston_Texan" group-title="Football", Buffalo Bills vs Houston Texans (NFL)
