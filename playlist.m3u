@@ -1,15 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_austin-fc-vs-vancouver-whitecaps_Austin_FC_vs_Vancouver_Whiteca" group-title="Soccer", Austin FC vs Vancouver Whitecaps (MLS)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_parma-vs-como_Parma_vs_Como" group-title="Soccer", Parma vs Como (Serie A)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_philadelphia-union-vs-san-diego-fc_Philadelphia_Union_vs_San_Dieg" group-title="Soccer", Philadelphia Union vs San Diego FC (MLS)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_san-diego-padres-vs-san-francisco-giants_San_Diego_Padres_vs_San_Franci" group-title="Baseball", San Diego Padres vs San Francisco Giants (MLB)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dallas-cowboys-vs-new-york-giants_Dallas_Cowboys_vs_New_York_Gia" group-title="Football", Dallas Cowboys vs New York Giants (NFL)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_as-roma-vs-torino_AS_Roma_vs_Torino" group-title="Soccer", AS Roma vs Torino (Serie A)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
