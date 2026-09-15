@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_sudtirol-vs-genoa_Sudtirol_vs_Genoa" group-title="Soccer", Sudtirol vs Genoa (Coppa Italia)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_espanyol-vs-rayo-vallecano_Espanyol_vs_Rayo_Vallecano" group-title="Soccer", Espanyol vs Rayo Vallecano (La Liga)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_valencia-vs-alavés_Valencia_vs_Alavés" group-title="Soccer", Valencia vs Alavés (La Liga)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_barnsley-vs-peterborough-united_Barnsley_vs_Peterborough_Unite" group-title="Soccer", Barnsley vs Peterborough United (Carabao Cup)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_chicago-white-sox-vs-cleveland-guardians_Chicago_White_Sox_vs_Cleveland" group-title="Baseball", Chicago White Sox vs Cleveland Guardians (MLB)
 
 
@@ -31,9 +43,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_denver-broncos-vs-kansas-city-chiefs_Denver_Broncos_vs_Kansas_City_" group-title="Football", Denver Broncos vs Kansas City Chiefs (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
