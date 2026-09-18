@@ -27,6 +27,9 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_new-york-liberty-vs-minnesota-lynx_New_York_Liberty_vs_Minnesota_" group-title="Basketball", New York Liberty vs Minnesota Lynx (WNBA)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_portland-fire-vs-golden-state-valkyries_Portland_Fire_vs_Golden_State_" group-title="Basketball", Portland Fire vs Golden State Valkyries (WNBA)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_chicago-cubs-vs-cincinnati-reds_Chicago_Cubs_vs_Cincinnati_Red" group-title="Baseball", Chicago Cubs vs Cincinnati Reds (MLB)
 
 
@@ -63,6 +66,15 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_minnesota-twins-vs-los-angeles-angels_Minnesota_Twins_vs_Los_Angeles" group-title="Baseball", Minnesota Twins vs Los Angeles Angels (MLB)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_miami-marlins-vs-san-diego-padres_Miami_Marlins_vs_San_Diego_Pad" group-title="Baseball", Miami Marlins vs San Diego Padres (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_new-york-yankees-vs-arizona-diamondbacks_New_York_Yankees_vs_Arizona_Di" group-title="Baseball", New York Yankees vs Arizona Diamondbacks (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_san-francisco-giants-vs-los-angeles-dodgers_San_Francisco_Giants_vs_Los_An" group-title="Baseball", San Francisco Giants vs Los Angeles Dodgers (MLB)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
 
 
@@ -70,6 +82,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_houston-cougars-vs-texas-tech-red-raiders_Houston_Cougars_vs_Texas_Tech_" group-title="Football", Houston Cougars vs Texas Tech Red Raiders (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_portland-state-vikings-vs-oregon-ducks_Portland_State_Vikings_vs_Oreg" group-title="Football", Portland State Vikings vs Oregon Ducks (NCAAF)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
