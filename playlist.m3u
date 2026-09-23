@@ -1,48 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_connecticut-sun-vs-washington-mystics_Connecticut_Sun_vs_Washington_" group-title="Basketball", Connecticut Sun vs Washington Mystics (WNBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_minnesota-lynx-vs-indiana-fever_Minnesota_Lynx_vs_Indiana_Feve" group-title="Basketball", Minnesota Lynx vs Indiana Fever (WNBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_toronto-tempo-vs-chicago-sky_Toronto_Tempo_vs_Chicago_Sky" group-title="Basketball", Toronto Tempo vs Chicago Sky (WNBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_los-angeles-sparks-vs-las-vegas-aces_Los_Angeles_Sparks_vs_Las_Vega" group-title="Basketball", Los Angeles Sparks vs Las Vegas Aces (WNBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_golden-state-valkyries-vs-portland-fire_Golden_State_Valkyries_vs_Port" group-title="Basketball", Golden State Valkyries vs Portland Fire (WNBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_philadelphia-flyers-vs-boston-bruins_Philadelphia_Flyers_vs_Boston_" group-title="Hockey", Philadelphia Flyers vs Boston Bruins (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_detroit-red-wings-vs-pittsburgh-penguins_Detroit_Red_Wings_vs_Pittsburg" group-title="Hockey", Detroit Red Wings vs Pittsburgh Penguins (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_columbus-blue-jackets-vs-buffalo-sabres_Columbus_Blue_Jackets_vs_Buffa" group-title="Hockey", Columbus Blue Jackets vs Buffalo Sabres (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_new-york-islanders-vs-new-york-rangers_New_York_Islanders_vs_New_York" group-title="Hockey", New York Islanders vs New York Rangers (NHL)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_florida-panthers-vs-carolina-hurricanes_Florida_Panthers_vs_Carolina_H" group-title="Hockey", Florida Panthers vs Carolina Hurricanes (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_edmonton-oilers-vs-winnipeg-jets_Edmonton_Oilers_vs_Winnipeg_Je" group-title="Hockey", Edmonton Oilers vs Winnipeg Jets (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_tampa-bay-lightning-vs-nashville-predators_Tampa_Bay_Lightning_vs_Nashvil" group-title="Hockey", Tampa Bay Lightning vs Nashville Predators (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_vancouver-canucks-vs-calgary-flames_Vancouver_Canucks_vs_Calgary_F" group-title="Hockey", Vancouver Canucks vs Calgary Flames (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_utah-mammoth-vs-los-angeles-kings_Utah_Mammoth_vs_Los_Angeles_Ki" group-title="Hockey", Utah Mammoth vs Los Angeles Kings (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_vegas-golden-knights-vs-san-jose-sharks_Vegas_Golden_Knights_vs_San_Jo" group-title="Hockey", Vegas Golden Knights vs San Jose Sharks (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/combat_dana-whites-contender-series-season-10-week-7_Dana_Whites_Contender_Series_S" group-title="Combat", Dana White's Contender Series: Season 10, Week 7 (UFC)
@@ -88,6 +46,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_minnesota-twins-vs-san-francisco-giants_Minnesota_Twins_vs_San_Francis" group-title="Baseball", Minnesota Twins vs San Francisco Giants (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_toronto-blue-jays-vs-baltimore-orioles_Toronto_Blue_Jays_vs_Baltimore" group-title="Baseball", Toronto Blue Jays vs Baltimore Orioles (MLB)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
