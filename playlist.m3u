@@ -1,9 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_real-salt-lake-vs-seattle-sounders-fc_Real_Salt_Lake_vs_Seattle_Soun" group-title="Soccer", Real Salt Lake vs Seattle Sounders FC (MLS)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_atlanta-dream-vs-new-york-liberty_Atlanta_Dream_vs_New_York_Libe" group-title="Basketball", Atlanta Dream vs New York Liberty (WNBA)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_dallas-wings-vs-seattle-storm_Dallas_Wings_vs_Seattle_Storm" group-title="Basketball", Dallas Wings vs Seattle Storm (WNBA)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_toronto-maple-leafs-vs-ottawa-senators_Toronto_Maple_Leafs_vs_Ottawa_" group-title="Hockey", Toronto Maple Leafs vs Ottawa Senators (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_ottawa-senators-vs-toronto-maple-leafs_Ottawa_Senators_vs_Toronto_Map" group-title="Hockey", Ottawa Senators vs Toronto Maple Leafs (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_minnesota-wild-vs-dallas-stars_Minnesota_Wild_vs_Dallas_Stars" group-title="Hockey", Minnesota Wild vs Dallas Stars (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_los-angeles-kings-vs-anaheim-ducks_Los_Angeles_Kings_vs_Anaheim_D" group-title="Hockey", Los Angeles Kings vs Anaheim Ducks (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_toronto-blue-jays-vs-baltimore-orioles_Toronto_Blue_Jays_vs_Baltimore" group-title="Baseball", Toronto Blue Jays vs Baltimore Orioles (MLB)
@@ -28,6 +43,27 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_cincinnati-reds-vs-atlanta-braves_Cincinnati_Reds_vs_Atlanta_Bra" group-title="Baseball", Cincinnati Reds vs Atlanta Braves (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_chicago-white-sox-vs-kansas-city-royals_Chicago_White_Sox_vs_Kansas_Ci" group-title="Baseball", Chicago White Sox vs Kansas City Royals (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_miami-marlins-vs-chicago-cubs_Miami_Marlins_vs_Chicago_Cubs" group-title="Baseball", Miami Marlins vs Chicago Cubs (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_new-york-mets-vs-texas-rangers_New_York_Mets_vs_Texas_Rangers" group-title="Baseball", New York Mets vs Texas Rangers (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_arizona-diamondbacks-vs-colorado-rockies_Arizona_Diamondbacks_vs_Colora" group-title="Baseball", Arizona Diamondbacks vs Colorado Rockies (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_los-angeles-angels-vs-athletics_Los_Angeles_Angels_vs_Athletic" group-title="Baseball", Los Angeles Angels vs Athletics (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_houston-astros-vs-seattle-mariners_Houston_Astros_vs_Seattle_Mari" group-title="Baseball", Houston Astros vs Seattle Mariners (MLB)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_san-diego-padres-vs-los-angeles-dodgers_San_Diego_Padres_vs_Los_Angele" group-title="Baseball", San Diego Padres vs Los Angeles Dodgers (MLB)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
