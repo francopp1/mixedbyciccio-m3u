@@ -1,18 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_greece-vs-germany_Greece_vs_Germany" group-title="Soccer", Greece vs Germany (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_republic-of-ireland-vs-israel_Republic_of_Ireland_vs_Israel" group-title="Soccer", Republic of Ireland vs Israel (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_portugal-vs-norway_Portugal_vs_Norway" group-title="Soccer", Portugal vs Norway (UEFA Nations League)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_inter-miami-cf-vs-columbus-crew_Inter_Miami_CF_vs_Columbus_Cre" group-title="Soccer", Inter Miami CF vs Columbus Crew (MLS)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_new-york-liberty-vs-minnesota-lynx_New_York_Liberty_vs_Minnesota_" group-title="Basketball", New York Liberty vs Minnesota Lynx (WNBA)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_indiana-fever-vs-las-vegas-aces_Indiana_Fever_vs_Las_Vegas_Ace" group-title="Basketball", Indiana Fever vs Las Vegas Aces (WNBA)
@@ -22,12 +10,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_dallas-wings-vs-golden-state-valkyries_Dallas_Wings_vs_Golden_State_V" group-title="Basketball", Dallas Wings vs Golden State Valkyries (WNBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_baltimore-orioles-vs-new-york-yankees_Baltimore_Orioles_vs_New_York_" group-title="Baseball", Baltimore Orioles vs New York Yankees (MLB)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_new-york-mets-vs-washington-nationals_New_York_Mets_vs_Washington_Na" group-title="Baseball", New York Mets vs Washington Nationals (MLB)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_chicago-cubs-vs-boston-red-sox_Chicago_Cubs_vs_Boston_Red_Sox" group-title="Baseball", Chicago Cubs vs Boston Red Sox (MLB)
@@ -70,33 +52,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_los-angeles-chargers-vs-buffalo-bills_Los_Angeles_Chargers_vs_Buffal" group-title="Football", Los Angeles Chargers vs Buffalo Bills (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_carolina-panthers-vs-cleveland-browns_Carolina_Panthers_vs_Cleveland" group-title="Football", Carolina Panthers vs Cleveland Browns (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_new-york-jets-vs-detroit-lions_New_York_Jets_vs_Detroit_Lions" group-title="Football", New York Jets vs Detroit Lions (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_houston-texans-vs-indianapolis-colts_Houston_Texans_vs_Indianapolis" group-title="Football", Houston Texans vs Indianapolis Colts (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_kansas-city-chiefs-vs-miami-dolphins_Kansas_City_Chiefs_vs_Miami_Do" group-title="Football", Kansas City Chiefs vs Miami Dolphins (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_tennessee-titans-vs-new-york-giants_Tennessee_Titans_vs_New_York_G" group-title="Football", Tennessee Titans vs New York Giants (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_cincinnati-bengals-vs-pittsburgh-steelers_Cincinnati_Bengals_vs_Pittsbur" group-title="Football", Cincinnati Bengals vs Pittsburgh Steelers (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_seattle-seahawks-vs-washington-commanders_Seattle_Seahawks_vs_Washington" group-title="Football", Seattle Seahawks vs Washington Commanders (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_new-england-patriots-vs-jacksonville-jaguars_New_England_Patriots_vs_Jackso" group-title="Football", New England Patriots vs Jacksonville Jaguars (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_arizona-cardinals-vs-san-francisco-49ers_Arizona_Cardinals_vs_San_Franc" group-title="Football", Arizona Cardinals vs San Francisco 49ers (NFL)
