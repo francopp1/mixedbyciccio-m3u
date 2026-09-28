@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_montenegro-vs-armenia_Montenegro_vs_Armenia" group-title="Soccer", Montenegro vs Armenia (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_ukraine-vs-georgia_Ukraine_vs_Georgia" group-title="Soccer", Ukraine vs Georgia (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_cyprus-vs-latvia_Cyprus_vs_Latvia" group-title="Soccer", Cyprus vs Latvia (UEFA Nations League)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_france-vs-belgium_France_vs_Belgium" group-title="Soccer", France vs Belgium (UEFA Nations League)
 
 
@@ -25,6 +16,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_philadelphia-eagles-vs-chicago-bears_Philadelphia_Eagles_vs_Chicago" group-title="Football", Philadelphia Eagles vs Chicago Bears (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
