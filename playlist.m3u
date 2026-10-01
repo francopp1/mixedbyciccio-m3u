@@ -24,6 +24,12 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_norway-vs-wales_Norway_vs_Wales" group-title="Soccer", Norway vs Wales (UEFA Nations League)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_sporting-kansas-city-vs-seattle-sounders-fc_Sporting_Kansas_City_vs_Seattl" group-title="Soccer", Sporting Kansas City vs Seattle Sounders FC (MLS)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_indiana-fever-vs-las-vegas-aces_Indiana_Fever_vs_Las_Vegas_Ace" group-title="Basketball", Indiana Fever vs Las Vegas Aces (WNBA)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_buffalo-sabres-vs-columbus-blue-jackets_Buffalo_Sabres_vs_Columbus_Blu" group-title="Hockey", Buffalo Sabres vs Columbus Blue Jackets (NHL)
 
 
@@ -33,10 +39,40 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_tampa-bay-lightning-vs-new-york-rangers_Tampa_Bay_Lightning_vs_New_Yor" group-title="Hockey", Tampa Bay Lightning vs New York Rangers (NHL)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_minnesota-wild-vs-nashville-predators_Minnesota_Wild_vs_Nashville_Pr" group-title="Hockey", Minnesota Wild vs Nashville Predators (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_seattle-kraken-vs-calgary-flames_Seattle_Kraken_vs_Calgary_Flam" group-title="Hockey", Seattle Kraken vs Calgary Flames (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_chicago-blackhawks-vs-utah-mammoth_Chicago_Blackhawks_vs_Utah_Mam" group-title="Hockey", Chicago Blackhawks vs Utah Mammoth (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_florida-panthers-vs-san-jose-sharks_Florida_Panthers_vs_San_Jose_S" group-title="Hockey", Florida Panthers vs San Jose Sharks (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_edmonton-oilers-vs-vancouver-canucks_Edmonton_Oilers_vs_Vancouver_C" group-title="Hockey", Edmonton Oilers vs Vancouver Canucks (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_philadelphia-phillies-vs-atlanta-braves_Philadelphia_Phillies_vs_Atlan" group-title="Baseball", Philadelphia Phillies vs Atlanta Braves (MLB)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_western-kentucky-hilltoppers-vs-new-mexico-state-aggies_Western_Kentucky_Hilltoppers_v" group-title="Football", Western Kentucky Hilltoppers vs New Mexico State Aggies (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_pittsburgh-steelers-vs-cleveland-browns_Pittsburgh_Steelers_vs_Clevela" group-title="Football", Pittsburgh Steelers vs Cleveland Browns (NFL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_north-texas-mean-green-vs-tulsa-golden-hurricane_North_Texas_Mean_Green_vs_Tuls" group-title="Football", North Texas Mean Green vs Tulsa Golden Hurricane (NCAAF)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_gulf-air-bahrain-grand-prix-in-malaysia_Gulf_Air_Bahrain_Grand_Prix_in" group-title="Racing", Gulf Air Bahrain Grand Prix in Malaysia (Formula 1)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/cricket_ac38ed2a-92dd-4b08-be0b-3cfaefb09b98_Willow" group-title="Cricket", Willow (WILLOW)
