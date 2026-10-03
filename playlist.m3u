@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_albania-vs-finland_Albania_vs_Finland" group-title="Soccer", Albania vs Finland (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_atlético-calatayud-vs-cd-baztán_Atlético_Calatayud_vs_CD_Baztá" group-title="Soccer", Atlético Calatayud vs CD Baztán (Copa del Rey)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_san-marino-vs-belarus_San_Marino_vs_Belarus" group-title="Soccer", San Marino vs Belarus (UEFA Nations League)
 
 
@@ -16,15 +10,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_bulgaria-vs-iceland_Bulgaria_vs_Iceland" group-title="Soccer", Bulgaria vs Iceland (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_anaitasuna-vs-cd-tedeón_Anaitasuna_vs_CD_Tedeón" group-title="Soccer", Anaitasuna vs CD Tedeón (Copa del Rey)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_ub-lebrijana-vs-ceuta-6-de-junio_UB_Lebrijana_vs_Ceuta_6_de_Jun" group-title="Soccer", UB Lebrijana vs Ceuta 6 de Junio (Copa del Rey)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_atlético-pinatarense-vs-atlético-melilla_Atlético_Pinatarense_vs_Atléti" group-title="Soccer", Atlético Pinatarense vs Atlético Melilla (Copa del Rey)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_scotland-vs-north-macedonia_Scotland_vs_North_Macedonia" group-title="Soccer", Scotland vs North Macedonia (UEFA Nations League)
@@ -67,6 +52,15 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_dallas-stars-vs-nashville-predators_Dallas_Stars_vs_Nashville_Pred" group-title="Hockey", Dallas Stars vs Nashville Predators (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_st-louis-blues-vs-colorado-avalanche_St_Louis_Blues_vs_Colorado_Ava" group-title="Hockey", St. Louis Blues vs Colorado Avalanche (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_calgary-flames-vs-vancouver-canucks_Calgary_Flames_vs_Vancouver_Ca" group-title="Hockey", Calgary Flames vs Vancouver Canucks (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_los-angeles-kings-vs-san-jose-sharks_Los_Angeles_Kings_vs_San_Jose_" group-title="Hockey", Los Angeles Kings vs San Jose Sharks (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/combat_ufc-332-silva-vs-wang_UFC_332_Silva_vs_Wang" group-title="Combat", UFC 332: Silva vs. Wang (UFC)
@@ -232,6 +226,21 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_arkansas-state-red-wolves-vs-louisiana-ragin-cajuns_Arkansas_State_Red_Wolves_vs_L" group-title="Football", Arkansas State Red Wolves vs Louisiana Ragin' Cajuns (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_fresno-state-bulldogs-vs-washington-state-cougars_Fresno_State_Bulldogs_vs_Washi" group-title="Football", Fresno State Bulldogs vs Washington State Cougars (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_baylor-bears-vs-arizona-state-sun-devils_Baylor_Bears_vs_Arizona_State_" group-title="Football", Baylor Bears vs Arizona State Sun Devils (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_texas-state-bobcats-vs-san-diego-state-aztecs_Texas_State_Bobcats_vs_San_Die" group-title="Football", Texas State Bobcats vs San Diego State Aztecs (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_cincinnati-bearcats-vs-arizona-wildcats_Cincinnati_Bearcats_vs_Arizona" group-title="Football", Cincinnati Bearcats vs Arizona Wildcats (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_san-josé-state-spartans-vs-hawaii-rainbow-warriors_San_José_State_Spartans_vs_Haw" group-title="Football", San José State Spartans vs Hawai'i Rainbow Warriors (NCAAF)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
