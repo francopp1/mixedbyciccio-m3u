@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_germany-vs-greece_Germany_vs_Greece" group-title="Soccer", Germany vs Greece (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_serbia-vs-netherlands_Serbia_vs_Netherlands" group-title="Soccer", Serbia vs Netherlands (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_norway-vs-portugal_Norway_vs_Portugal" group-title="Soccer", Norway vs Portugal (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_israel-vs-republic-of-ireland_Israel_vs_Republic_of_Ireland" group-title="Soccer", Israel vs Republic of Ireland (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_denmark-vs-wales_Denmark_vs_Wales" group-title="Soccer", Denmark vs Wales (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_las-vegas-aces-vs-golden-state-valkyries_Las_Vegas_Aces_vs_Golden_State" group-title="Basketball", Las Vegas Aces vs Golden State Valkyries (WNBA)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_utah-jazz-vs-denver-nuggets_Utah_Jazz_vs_Denver_Nuggets" group-title="Basketball", Utah Jazz vs Denver Nuggets (NBA)
 
 
@@ -43,9 +25,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_miami-dolphins-vs-minnesota-vikings_Miami_Dolphins_vs_Minnesota_Vi" group-title="Football", Miami Dolphins vs Minnesota Vikings (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_kansas-city-chiefs-vs-las-vegas-raiders_Kansas_City_Chiefs_vs_Las_Vega" group-title="Football", Kansas City Chiefs vs Las Vegas Raiders (NFL)
