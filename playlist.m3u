@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_utah-jazz-vs-denver-nuggets_Utah_Jazz_vs_Denver_Nuggets" group-title="Basketball", Utah Jazz vs Denver Nuggets (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_golden-state-warriors-vs-la-clippers_Golden_State_Warriors_vs_LA_Cl" group-title="Basketball", Golden State Warriors vs LA Clippers (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_utah-mammoth-vs-new-york-rangers_Utah_Mammoth_vs_New_York_Range" group-title="Hockey", Utah Mammoth vs New York Rangers (NHL)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_florida-panthers-vs-anaheim-ducks_Florida_Panthers_vs_Anaheim_Du" group-title="Hockey", Florida Panthers vs Anaheim Ducks (NHL)
 
 
@@ -18,22 +9,10 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_vegas-golden-knights-vs-vancouver-canucks_Vegas_Golden_Knights_vs_Vancou" group-title="Hockey", Vegas Golden Knights vs Vancouver Canucks (NHL)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_san-diego-padres-vs-milwaukee-brewers_San_Diego_Padres_vs_Milwaukee_" group-title="Baseball", San Diego Padres vs Milwaukee Brewers (MLB)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_atlanta-braves-vs-los-angeles-dodgers_Atlanta_Braves_vs_Los_Angeles_" group-title="Baseball", Atlanta Braves vs Los Angeles Dodgers (MLB)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_kansas-city-chiefs-vs-las-vegas-raiders_Kansas_City_Chiefs_vs_Las_Vega" group-title="Football", Kansas City Chiefs vs Las Vegas Raiders (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_denver-broncos-vs-san-francisco-49ers_Denver_Broncos_vs_San_Francisc" group-title="Football", Denver Broncos vs San Francisco 49ers (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_los-angeles-chargers-vs-seattle-seahawks_Los_Angeles_Chargers_vs_Seattl" group-title="Football", Los Angeles Chargers vs Seattle Seahawks (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_detroit-lions-vs-carolina-panthers_Detroit_Lions_vs_Carolina_Pant" group-title="Football", Detroit Lions vs Carolina Panthers (NFL)
