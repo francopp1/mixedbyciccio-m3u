@@ -1,26 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_poland-vs-bosnia-herzegovina_Poland_vs_Bosnia-Herzegovina" group-title="Soccer", Poland vs Bosnia-Herzegovina (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_belgium-vs-france_Belgium_vs_France" group-title="Soccer", Belgium vs France (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_türkiye-vs-italy_Türkiye_vs_Italy" group-title="Soccer", Türkiye vs Italy (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_armenia-vs-montenegro_Armenia_vs_Montenegro" group-title="Soccer", Armenia vs Montenegro (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_georgia-vs-northern-ireland_Georgia_vs_Northern_Ireland" group-title="Soccer", Georgia vs Northern Ireland (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_sweden-vs-romania_Sweden_vs_Romania" group-title="Soccer", Sweden vs Romania (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_hungary-vs-ukraine_Hungary_vs_Ukraine" group-title="Soccer", Hungary vs Ukraine (UEFA Nations League)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_memphis-grizzlies-vs-atlanta-hawks_Memphis_Grizzlies_vs_Atlanta_H" group-title="Basketball", Memphis Grizzlies vs Atlanta Hawks (NBA)
 
 
@@ -46,9 +25,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_san-jose-sharks-vs-dallas-stars_San_Jose_Sharks_vs_Dallas_Star" group-title="Hockey", San Jose Sharks vs Dallas Stars (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_chicago-white-sox-vs-cleveland-guardians_Chicago_White_Sox_vs_Cleveland" group-title="Baseball", Chicago White Sox vs Cleveland Guardians (MLB)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_new-york-yankees-vs-tampa-bay-rays_New_York_Yankees_vs_Tampa_Bay_" group-title="Baseball", New York Yankees vs Tampa Bay Rays (MLB)
