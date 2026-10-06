@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_faroe-islands-vs-kazakhstan_Faroe_Islands_vs_Kazakhstan" group-title="Soccer", Faroe Islands vs Kazakhstan (UEFA Nations League)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_san-marino-vs-albania_San_Marino_vs_Albania" group-title="Soccer", San Marino vs Albania (UEFA Nations League)
 
 
@@ -42,6 +39,9 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_denver-nuggets-vs-utah-jazz_Denver_Nuggets_vs_Utah_Jazz" group-title="Basketball", Denver Nuggets vs Utah Jazz (NBA)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_los-angeles-lakers-vs-golden-state-warriors_Los_Angeles_Lakers_vs_Golden_S" group-title="Basketball", Los Angeles Lakers vs Golden State Warriors (NBA)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_carolina-hurricanes-vs-montreal-canadiens_Carolina_Hurricanes_vs_Montrea" group-title="Hockey", Carolina Hurricanes vs Montreal Canadiens (NHL)
 
 
@@ -64,6 +64,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_vegas-golden-knights-vs-seattle-kraken_Vegas_Golden_Knights_vs_Seattl" group-title="Hockey", Vegas Golden Knights vs Seattle Kraken (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_florida-panthers-vs-los-angeles-kings_Florida_Panthers_vs_Los_Angele" group-title="Hockey", Florida Panthers vs Los Angeles Kings (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/combat_dana-whites-contender-series-season-10-week-9_Dana_Whites_Contender_Series_S" group-title="Combat", Dana White's Contender Series: Season 10, Week 9 (UFC)
