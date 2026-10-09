@@ -12,9 +12,6 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_queens-park-rangers-vs-west-ham-united_Queens_Park_Rangers_vs_West_Ha" group-title="Soccer", Queens Park Rangers vs West Ham United (EFL Championship)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_houston-rockets-vs-dallas-mavericks_Houston_Rockets_vs_Dallas_Mave" group-title="Basketball", Houston Rockets vs Dallas Mavericks (NBA)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_atlanta-dream-vs-new-york-liberty_Atlanta_Dream_vs_New_York_Libe" group-title="Basketball", Atlanta Dream vs New York Liberty (WNBA)
 
 
@@ -49,6 +46,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_wyoming-cowboys-vs-san-josé-state-spartans_Wyoming_Cowboys_vs_San_José_St" group-title="Football", Wyoming Cowboys vs San José State Spartans (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_iowa-state-cyclones-vs-byu-cougars_Iowa_State_Cyclones_vs_BYU_Cou" group-title="Football", Iowa State Cyclones vs BYU Cougars (NCAAF)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
