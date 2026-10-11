@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_juventus-vs-cagliari_Juventus_vs_Cagliari" group-title="Soccer", Juventus vs Cagliari (Serie A)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_marseille-vs-troyes_Marseille_vs_Troyes" group-title="Soccer", Marseille vs Troyes (Ligue 1)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_valencia-vs-racing-santander_Valencia_vs_Racing_Santander" group-title="Soccer", Valencia vs Racing Santander (La Liga)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_la-galaxy-vs-st-louis-city-sc_LA_Galaxy_vs_St_Louis_CITY_SC" group-title="Soccer", LA Galaxy vs St. Louis CITY SC (MLS)
 
 
@@ -34,30 +25,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_chicago-bears-vs-green-bay-packers_Chicago_Bears_vs_Green_Bay_Pac" group-title="Football", Chicago Bears vs Green Bay Packers (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_houston-texans-vs-tennessee-titans_Houston_Texans_vs_Tennessee_Ti" group-title="Football", Houston Texans vs Tennessee Titans (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_cincinnati-bengals-vs-miami-dolphins_Cincinnati_Bengals_vs_Miami_Do" group-title="Football", Cincinnati Bengals vs Miami Dolphins (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_las-vegas-raiders-vs-new-england-patriots_Las_Vegas_Raiders_vs_New_Engla" group-title="Football", Las Vegas Raiders vs New England Patriots (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_minnesota-vikings-vs-new-orleans-saints_Minnesota_Vikings_vs_New_Orlea" group-title="Football", Minnesota Vikings vs New Orleans Saints (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_cleveland-browns-vs-new-york-jets_Cleveland_Browns_vs_New_York_J" group-title="Football", Cleveland Browns vs New York Jets (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_indianapolis-colts-vs-pittsburgh-steelers_Indianapolis_Colts_vs_Pittsbur" group-title="Football", Indianapolis Colts vs Pittsburgh Steelers (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_new-york-giants-vs-washington-commanders_New_York_Giants_vs_Washington_" group-title="Football", New York Giants vs Washington Commanders (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_denver-broncos-vs-los-angeles-chargers_Denver_Broncos_vs_Los_Angeles_" group-title="Football", Denver Broncos vs Los Angeles Chargers (NFL)
