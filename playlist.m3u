@@ -1,15 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_chicago-bulls-vs-denver-nuggets_Chicago_Bulls_vs_Denver_Nugget" group-title="Basketball", Chicago Bulls vs Denver Nuggets (NBA)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_venezia-vs-atalanta_Venezia_vs_Atalanta" group-title="Soccer", Venezia vs Atalanta (Serie A)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_los-angeles-dodgers-vs-milwaukee-brewers_Los_Angeles_Dodgers_vs_Milwauk" group-title="Baseball", Los Angeles Dodgers vs Milwaukee Brewers (MLB)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_udinese-vs-torino_Udinese_vs_Torino" group-title="Soccer", Udinese vs Torino (Serie A)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_newcastle-united-vs-coventry-city_Newcastle_United_vs_Coventry_C" group-title="Soccer", Newcastle United vs Coventry City (Premier League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_sevilla-vs-levante_Sevilla_vs_Levante" group-title="Soccer", Sevilla vs Levante (La Liga)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_london-lions-vs-portland-trail-blazers_London_Lions_vs_Portland_Trail" group-title="Basketball", London Lions vs Portland Trail Blazers (NBA)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_florida-panthers-vs-buffalo-sabres_Florida_Panthers_vs_Buffalo_Sa" group-title="Hockey", Florida Panthers vs Buffalo Sabres (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_baltimore-ravens-vs-atlanta-falcons_Baltimore_Ravens_vs_Atlanta_Fa" group-title="Football", Baltimore Ravens vs Atlanta Falcons (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
