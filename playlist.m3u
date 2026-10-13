@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_sporting-cp-vs-lens_Sporting_CP_vs_Lens" group-title="Soccer", Sporting CP vs Lens (Champions League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_slavia-prague-vs-sabah-fk_Slavia_Prague_vs_Sabah_FK" group-title="Soccer", Slavia Prague vs Sabah FK (Champions League)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_blackburn-rovers-vs-bristol-city_Blackburn_Rovers_vs_Bristol_Ci" group-title="Soccer", Blackburn Rovers vs Bristol City (EFL Championship)
 
 
@@ -109,6 +103,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_edmonton-oilers-vs-los-angeles-kings_Edmonton_Oilers_vs_Los_Angeles" group-title="Hockey", Edmonton Oilers vs Los Angeles Kings (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_boston-bruins-vs-san-jose-sharks_Boston_Bruins_vs_San_Jose_Shar" group-title="Hockey", Boston Bruins vs San Jose Sharks (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/combat_dana-whites-contender-series-season-10-week-10_Dana_Whites_Contender_Series_S" group-title="Combat", Dana White's Contender Series: Season 10, Week 10 (UFC)
