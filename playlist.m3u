@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_cleveland-cavaliers-vs-orlando-magic_Cleveland_Cavaliers_vs_Orlando" group-title="Basketball", Cleveland Cavaliers vs Orlando Magic (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_new-york-knicks-vs-toronto-raptors_New_York_Knicks_vs_Toronto_Rap" group-title="Basketball", New York Knicks vs Toronto Raptors (NBA)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_indiana-pacers-vs-oklahoma-city-thunder_Indiana_Pacers_vs_Oklahoma_Cit" group-title="Basketball", Indiana Pacers vs Oklahoma City Thunder (NBA)
 
 
@@ -15,22 +9,7 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_portland-trail-blazers-vs-sacramento-kings_Portland_Trail_Blazers_vs_Sacr" group-title="Basketball", Portland Trail Blazers vs Sacramento Kings (NBA)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_new-jersey-devils-vs-detroit-red-wings_New_Jersey_Devils_vs_Detroit_R" group-title="Hockey", New Jersey Devils vs Detroit Red Wings (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_florida-panthers-vs-columbus-blue-jackets_Florida_Panthers_vs_Columbus_B" group-title="Hockey", Florida Panthers vs Columbus Blue Jackets (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_buffalo-sabres-vs-montreal-canadiens_Buffalo_Sabres_vs_Montreal_Can" group-title="Hockey", Buffalo Sabres vs Montreal Canadiens (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_washington-capitals-vs-carolina-hurricanes_Washington_Capitals_vs_Carolin" group-title="Hockey", Washington Capitals vs Carolina Hurricanes (NHL)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_seattle-kraken-vs-philadelphia-flyers_Seattle_Kraken_vs_Philadelphia" group-title="Hockey", Seattle Kraken vs Philadelphia Flyers (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_tampa-bay-lightning-vs-new-york-rangers_Tampa_Bay_Lightning_vs_New_Yor" group-title="Hockey", Tampa Bay Lightning vs New York Rangers (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_st-louis-blues-vs-ottawa-senators_St_Louis_Blues_vs_Ottawa_Senat" group-title="Hockey", St. Louis Blues vs Ottawa Senators (NHL)
