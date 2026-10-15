@@ -1,15 +1,114 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_portland-timbers-vs-la-galaxy_Portland_Timbers_vs_LA_Galaxy" group-title="Soccer", Portland Timbers vs LA Galaxy (MLS)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_hapoel-beer-vs-az-alkmaar_Hapoel_Beer_vs_AZ_Alkmaar" group-title="Soccer", Hapoel Be'er vs AZ Alkmaar (Europa League)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_austin-fc-vs-lafc_Austin_FC_vs_LAFC" group-title="Soccer", Austin FC vs LAFC (MLS)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_bayer-leverkusen-vs-lech-poznan_Bayer_Leverkusen_vs_Lech_Pozna" group-title="Soccer", Bayer Leverkusen vs Lech Poznan (Europa League)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_houston-dynamo-fc-vs-san-diego-fc_Houston_Dynamo_FC_vs_San_Diego" group-title="Soccer", Houston Dynamo FC vs San Diego FC (MLS)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_crystal-palace-vs-lyon_Crystal_Palace_vs_Lyon" group-title="Soccer", Crystal Palace vs Lyon (Europa League)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_denver-nuggets-vs-la-clippers_Denver_Nuggets_vs_LA_Clippers" group-title="Basketball", Denver Nuggets vs LA Clippers (NBA)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_omonia-nicosia-vs-nk-celje_Omonia_Nicosia_vs_NK_Celje" group-title="Soccer", Omonia Nicosia vs NK Celje (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_ac-milan-vs-rb-salzburg_AC_Milan_vs_RB_Salzburg" group-title="Soccer", AC Milan vs RB Salzburg (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_lillestrom-vs-sparta-prague_Lillestrom_vs_Sparta_Prague" group-title="Soccer", Lillestrom vs Sparta Prague (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_sunderland-vs-torreense_Sunderland_vs_Torreense" group-title="Soccer", Sunderland vs Torreense (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_real-sociedad-vs-union-st-gilloise_Real_Sociedad_vs_Union_St-Gill" group-title="Soccer", Real Sociedad vs Union St.-Gilloise (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_as-monaco-vs-cska-sofia_AS_Monaco_vs_CSKA_Sofia" group-title="Soccer", AS Monaco vs CSKA Sofia (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_getafe-vs-csu-craiova_Getafe_vs_CSU_Craiova" group-title="Soccer", Getafe vs CSU Craiova (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_fc-midtjylland-vs-egnatia_FC_Midtjylland_vs_Egnatia" group-title="Soccer", FC Midtjylland vs Egnatia (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_red-star-belgrade-vs-fc-lugano_Red_Star_Belgrade_vs_FC_Lugano" group-title="Soccer", Red Star Belgrade vs FC Lugano (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_ajax-amsterdam-vs-hajduk-split_Ajax_Amsterdam_vs_Hajduk_Split" group-title="Soccer", Ajax Amsterdam vs Hajduk Split (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_agf-vs-kaa-gent_AGF_vs_KAA_Gent" group-title="Soccer", AGF vs KAA Gent (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_trabzonspor-vs-kups-kuopio_Trabzonspor_vs_KuPS_Kuopio" group-title="Soccer", Trabzonspor vs KuPS Kuopio (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_inter-descaldes-vs-mjällby-aif_Inter_DEscaldes_vs_Mjällby_AIF" group-title="Soccer", Inter D'Escaldes vs Mjällby AIF (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_borac-banja-luka-vs-panathinaikos_Borac_Banja_Luka_vs_Panathinai" group-title="Soccer", Borac Banja Luka vs Panathinaikos (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_kairat-almaty-vs-riga-fc_Kairat_Almaty_vs_Riga_FC" group-title="Soccer", Kairat Almaty vs Riga FC (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_sk-sturm-graz-vs-afc-bournemouth_SK_Sturm_Graz_vs_AFC_Bournemou" group-title="Soccer", SK Sturm Graz vs AFC Bournemouth (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_celtic-vs-benfica_Celtic_vs_Benfica" group-title="Soccer", Celtic vs Benfica (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_juventus-vs-celta-vigo_Juventus_vs_Celta_Vigo" group-title="Soccer", Juventus vs Celta Vigo (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_anderlecht-vs-dinamo-zagreb_Anderlecht_vs_Dinamo_Zagreb" group-title="Soccer", Anderlecht vs Dinamo Zagreb (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_viktoria-plzen-vs-ferencvaros_Viktoria_Plzen_vs_Ferencvaros" group-title="Soccer", Viktoria Plzen vs Ferencvaros (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_ararat-armenia-vs-jagiellonia-bialystok_Ararat-Armenia_vs_Jagiellonia_" group-title="Soccer", Ararat-Armenia vs Jagiellonia Bialystok (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_olympiacos-vs-marseille_Olympiacos_vs_Marseille" group-title="Soccer", Olympiacos vs Marseille (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_levski-sofia-vs-nec-nijmegen_Levski_Sofia_vs_NEC_Nijmegen" group-title="Soccer", Levski Sofia vs NEC Nijmegen (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_ofi-crete-vs-stade-rennais_OFI_Crete_vs_Stade_Rennais" group-title="Soccer", OFI Crete vs Stade Rennais (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_besiktas-vs-tsg-hoffenheim_Besiktas_vs_TSG_Hoffenheim" group-title="Soccer", Besiktas vs TSG Hoffenheim (Europa League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_pafos-vs-atalanta_Pafos_vs_Atalanta" group-title="Soccer", Pafos vs Atalanta (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_kauno-zalgiris-vs-brighton-hove-albion_Kauno_Zalgiris_vs_Brighton__Ho" group-title="Soccer", Kauno Zalgiris vs Brighton & Hove Albion (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_braga-vs-fc-københavn_Braga_vs_FC_København" group-title="Soccer", Braga vs F.C. København (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_fc-thun-vs-fc-twente_FC_Thun_vs_FC_Twente" group-title="Soccer", FC Thun vs FC Twente (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_fc-nordsjælland-vs-heart-of-midlothian_FC_Nordsjælland_vs_Heart_of_Mi" group-title="Soccer", FC Nordsjælland vs Heart of Midlothian (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_jablonec-vs-sc-freiburg_Jablonec_vs_SC_Freiburg" group-title="Soccer", Jablonec vs SC Freiburg (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_iberia-1999-vs-sint-truidense_Iberia_1999_vs_Sint-Truidense" group-title="Soccer", Iberia 1999 vs Sint-Truidense (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_lincoln-red-imps-vs-sk-brann_Lincoln_Red_Imps_vs_SK_Brann" group-title="Soccer", Lincoln Red Imps vs SK Brann (UEFA Conference League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_tampa-bay-rays-vs-cleveland-guardians_Tampa_Bay_Rays_vs_Cleveland_Gu" group-title="Baseball", Tampa Bay Rays vs Cleveland Guardians (MLB)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
