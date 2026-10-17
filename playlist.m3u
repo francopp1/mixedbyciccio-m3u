@@ -1,74 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_chelsea-vs-everton_Chelsea_vs_Everton" group-title="Soccer", Chelsea vs Everton (Premier League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_cardiff-city-vs-middlesbrough_Cardiff_City_vs_Middlesbrough" group-title="Soccer", Cardiff City vs Middlesbrough (EFL Championship)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_lincoln-city-vs-millwall_Lincoln_City_vs_Millwall" group-title="Soccer", Lincoln City vs Millwall (EFL Championship)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_charlton-athletic-vs-watford_Charlton_Athletic_vs_Watford" group-title="Soccer", Charlton Athletic vs Watford (EFL Championship)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_atlético-madrid-vs-espanyol_Atlético_Madrid_vs_Espanyol" group-title="Soccer", Atlético Madrid vs Espanyol (La Liga)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_napoli-vs-venezia_Napoli_vs_Venezia" group-title="Soccer", Napoli vs Venezia (Serie A)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_borussia-dortmund-vs-1-fc-union-berlin_Borussia_Dortmund_vs_1_FC_Unio" group-title="Soccer", Borussia Dortmund vs 1. FC Union Berlin (Bundesliga)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_vfb-stuttgart-vs-hamburg-sv_VfB_Stuttgart_vs_Hamburg_SV" group-title="Soccer", VfB Stuttgart vs Hamburg SV (Bundesliga)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_mainz-vs-schalke-04_Mainz_vs_Schalke_04" group-title="Soccer", Mainz vs Schalke 04 (Bundesliga)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_fc-augsburg-vs-sv-elversberg_FC_Augsburg_vs_SV_Elversberg" group-title="Soccer", FC Augsburg vs SV Elversberg (Bundesliga)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_sc-paderborn-07-vs-werder-bremen_SC_Paderborn_07_vs_Werder_Brem" group-title="Soccer", SC Paderborn 07 vs Werder Bremen (Bundesliga)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_liverpool-vs-brentford_Liverpool_vs_Brentford" group-title="Soccer", Liverpool vs Brentford (Premier League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_hull-city-vs-fulham_Hull_City_vs_Fulham" group-title="Soccer", Hull City vs Fulham (Premier League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_ipswich-town-vs-manchester-city_Ipswich_Town_vs_Manchester_Cit" group-title="Soccer", Ipswich Town vs Manchester City (Premier League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_queens-park-rangers-vs-birmingham-city_Queens_Park_Rangers_vs_Birming" group-title="Soccer", Queens Park Rangers vs Birmingham City (EFL Championship)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_sheffield-united-vs-bristol-city_Sheffield_United_vs_Bristol_Ci" group-title="Soccer", Sheffield United vs Bristol City (EFL Championship)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_stoke-city-vs-derby-county_Stoke_City_vs_Derby_County" group-title="Soccer", Stoke City vs Derby County (EFL Championship)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_portsmouth-vs-norwich-city_Portsmouth_vs_Norwich_City" group-title="Soccer", Portsmouth vs Norwich City (EFL Championship)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_bolton-wanderers-vs-southampton_Bolton_Wanderers_vs_Southampto" group-title="Soccer", Bolton Wanderers vs Southampton (EFL Championship)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_west-ham-united-vs-swansea-city_West_Ham_United_vs_Swansea_Cit" group-title="Soccer", West Ham United vs Swansea City (EFL Championship)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_blackburn-rovers-vs-west-bromwich-albion_Blackburn_Rovers_vs_West_Bromw" group-title="Soccer", Blackburn Rovers vs West Bromwich Albion (EFL Championship)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_preston-north-end-vs-wrexham_Preston_North_End_vs_Wrexham" group-title="Soccer", Preston North End vs Wrexham (EFL Championship)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_elche-vs-villarreal_Elche_vs_Villarreal" group-title="Soccer", Elche vs Villarreal (La Liga)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_paris-saint-germain-vs-strasbourg_Paris_Saint-Germain_vs_Strasbo" group-title="Soccer", Paris Saint-Germain vs Strasbourg (Ligue 1)
 
 
@@ -126,6 +57,18 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_real-salt-lake-vs-sporting-kansas-city_Real_Salt_Lake_vs_Sporting_Kan" group-title="Soccer", Real Salt Lake vs Sporting Kansas City (MLS)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_san-diego-fc-vs-la-galaxy_San_Diego_FC_vs_LA_Galaxy" group-title="Soccer", San Diego FC vs LA Galaxy (MLS)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_colorado-rapids-vs-portland-timbers_Colorado_Rapids_vs_Portland_Ti" group-title="Soccer", Colorado Rapids vs Portland Timbers (MLS)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_nashville-sc-vs-san-jose-earthquakes_Nashville_SC_vs_San_Jose_Earth" group-title="Soccer", Nashville SC vs San Jose Earthquakes (MLS)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_cf-montréal-vs-seattle-sounders-fc_CF_Montréal_vs_Seattle_Sounder" group-title="Soccer", CF Montréal vs Seattle Sounders FC (MLS)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_atlanta-dream-vs-golden-state-valkyries_Atlanta_Dream_vs_Golden_State_" group-title="Basketball", Atlanta Dream vs Golden State Valkyries (WNBA)
 
 
@@ -163,6 +106,12 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_boston-bruins-vs-los-angeles-kings_Boston_Bruins_vs_Los_Angeles_K" group-title="Hockey", Boston Bruins vs Los Angeles Kings (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_edmonton-oilers-vs-utah-mammoth_Edmonton_Oilers_vs_Utah_Mammot" group-title="Hockey", Edmonton Oilers vs Utah Mammoth (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_pittsburgh-penguins-vs-vegas-golden-knights_Pittsburgh_Penguins_vs_Vegas_G" group-title="Hockey", Pittsburgh Penguins vs Vegas Golden Knights (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/combat_ufc-fight-night-buckley-vs-malott_UFC_Fight_Night_Buckley_vs_Mal" group-title="Combat", UFC Fight Night: Buckley vs. Malott (UFC)
@@ -310,6 +259,24 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_san-josé-state-spartans-vs-utep-miners_San_José_State_Spartans_vs_UTE" group-title="Football", San José State Spartans vs UTEP Miners (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_ohio-bobcats-vs-sacramento-state-hornets_Ohio_Bobcats_vs_Sacramento_Sta" group-title="Football", Ohio Bobcats vs Sacramento State Hornets (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_utah-utes-vs-colorado-buffaloes_Utah_Utes_vs_Colorado_Buffaloe" group-title="Football", Utah Utes vs Colorado Buffaloes (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_wake-forest-demon-deacons-vs-california-golden-bears_Wake_Forest_Demon_Deacons_vs_C" group-title="Football", Wake Forest Demon Deacons vs California Golden Bears (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_fresno-state-bulldogs-vs-san-diego-state-aztecs_Fresno_State_Bulldogs_vs_San_D" group-title="Football", Fresno State Bulldogs vs San Diego State Aztecs (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_new-mexico-lobos-vs-hawaii-rainbow-warriors_New_Mexico_Lobos_vs_Hawaii_Rai" group-title="Football", New Mexico Lobos vs Hawai'i Rainbow Warriors (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_nebraska-cornhuskers-vs-oregon-ducks_Nebraska_Cornhuskers_vs_Oregon" group-title="Football", Nebraska Cornhuskers vs Oregon Ducks (NCAAF)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
