@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_lecce-vs-udinese_Lecce_vs_Udinese" group-title="Soccer", Lecce vs Udinese (Serie A)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_racing-santander-vs-osasuna_Racing_Santander_vs_Osasuna" group-title="Soccer", Racing Santander vs Osasuna (La Liga)
 
 
@@ -60,6 +57,12 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_columbus-crew-vs-fc-cincinnati_Columbus_Crew_vs_FC_Cincinnati" group-title="Soccer", Columbus Crew vs FC Cincinnati (MLS)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_columbus-blue-jackets-vs-minnesota-wild_Columbus_Blue_Jackets_vs_Minne" group-title="Hockey", Columbus Blue Jackets vs Minnesota Wild (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_carolina-hurricanes-vs-calgary-flames_Carolina_Hurricanes_vs_Calgary" group-title="Hockey", Carolina Hurricanes vs Calgary Flames (NHL)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_tampa-bay-rays-vs-cleveland-guardians_Tampa_Bay_Rays_vs_Cleveland_Gu" group-title="Baseball", Tampa Bay Rays vs Cleveland Guardians (MLB)
 
 
@@ -97,6 +100,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_buffalo-bills-vs-las-vegas-raiders_Buffalo_Bills_vs_Las_Vegas_Rai" group-title="Football", Buffalo Bills vs Las Vegas Raiders (NFL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dallas-cowboys-vs-green-bay-packers_Dallas_Cowboys_vs_Green_Bay_Pa" group-title="Football", Dallas Cowboys vs Green Bay Packers (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
