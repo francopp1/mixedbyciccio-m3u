@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_columbus-crew-vs-fc-cincinnati_Columbus_Crew_vs_FC_Cincinnati" group-title="Soccer", Columbus Crew vs FC Cincinnati (MLS)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_columbus-blue-jackets-vs-minnesota-wild_Columbus_Blue_Jackets_vs_Minne" group-title="Hockey", Columbus Blue Jackets vs Minnesota Wild (NHL)
 
 
@@ -13,15 +10,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_arizona-cardinals-vs-los-angeles-rams_Arizona_Cardinals_vs_Los_Angel" group-title="Football", Arizona Cardinals vs Los Angeles Rams (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_los-angeles-chargers-vs-kansas-city-chiefs_Los_Angeles_Chargers_vs_Kansas" group-title="Football", Los Angeles Chargers vs Kansas City Chiefs (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_buffalo-bills-vs-las-vegas-raiders_Buffalo_Bills_vs_Las_Vegas_Rai" group-title="Football", Buffalo Bills vs Las Vegas Raiders (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dallas-cowboys-vs-green-bay-packers_Dallas_Cowboys_vs_Green_Bay_Pa" group-title="Football", Dallas Cowboys vs Green Bay Packers (NFL)
