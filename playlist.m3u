@@ -1,15 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_oklahoma-city-thunder-vs-san-antonio-spurs_Oklahoma_City_Thunder_vs_San_A" group-title="Basketball", Oklahoma City Thunder vs San Antonio Spurs (NBA)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_manchester-united-vs-como_Manchester_United_vs_Como" group-title="Soccer", Manchester United vs Como (Champions League)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_detroit-red-wings-vs-seattle-kraken_Detroit_Red_Wings_vs_Seattle_K" group-title="Hockey", Detroit Red Wings vs Seattle Kraken (NHL)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_galatasaray-vs-lille_Galatasaray_vs_Lille" group-title="Soccer", Galatasaray vs Lille (Champions League)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_carolina-hurricanes-vs-vancouver-canucks_Carolina_Hurricanes_vs_Vancouv" group-title="Hockey", Carolina Hurricanes vs Vancouver Canucks (NHL)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_athletic-club-vs-levante_Athletic_Club_vs_Levante" group-title="Soccer", Athletic Club vs Levante (La Liga)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_tampa-bay-lightning-vs-vegas-golden-knights_Tampa_Bay_Lightning_vs_Vegas_G" group-title="Hockey", Tampa Bay Lightning vs Vegas Golden Knights (NHL)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_viking-fk-vs-aston-villa_Viking_FK_vs_Aston_Villa" group-title="Soccer", Viking FK vs Aston Villa (Champions League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_arsenal-vs-bayern-munich_Arsenal_vs_Bayern_Munich" group-title="Soccer", Arsenal vs Bayern Munich (Champions League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_lens-vs-club-brugge_Lens_vs_Club_Brugge" group-title="Soccer", Lens vs Club Brugge (Champions League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_shakhtar-donetsk-vs-internazionale_Shakhtar_Donetsk_vs_Internazio" group-title="Soccer", Shakhtar Donetsk vs Internazionale (Champions League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_feyenoord-rotterdam-vs-real-betis_Feyenoord_Rotterdam_vs_Real_Be" group-title="Soccer", Feyenoord Rotterdam vs Real Betis (Champions League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_rb-leipzig-vs-real-madrid_RB_Leipzig_vs_Real_Madrid" group-title="Soccer", RB Leipzig vs Real Madrid (Champions League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_lask-linz-vs-sporting-cp_LASK_Linz_vs_Sporting_CP" group-title="Soccer", LASK Linz vs Sporting CP (Champions League)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
