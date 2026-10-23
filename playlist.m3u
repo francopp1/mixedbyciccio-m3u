@@ -1,63 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_cleveland-cavaliers-vs-philadelphia-76ers_Cleveland_Cavaliers_vs_Philade" group-title="Basketball", Cleveland Cavaliers vs Philadelphia 76ers (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_denver-nuggets-vs-oklahoma-city-thunder_Denver_Nuggets_vs_Oklahoma_Cit" group-title="Basketball", Denver Nuggets vs Oklahoma City Thunder (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_nashville-predators-vs-boston-bruins_Nashville_Predators_vs_Boston_" group-title="Hockey", Nashville Predators vs Boston Bruins (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_new-york-rangers-vs-toronto-maple-leafs_New_York_Rangers_vs_Toronto_Ma" group-title="Hockey", New York Rangers vs Toronto Maple Leafs (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_san-jose-sharks-vs-ottawa-senators_San_Jose_Sharks_vs_Ottawa_Sena" group-title="Hockey", San Jose Sharks vs Ottawa Senators (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_anaheim-ducks-vs-new-jersey-devils_Anaheim_Ducks_vs_New_Jersey_De" group-title="Hockey", Anaheim Ducks vs New Jersey Devils (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_florida-panthers-vs-pittsburgh-penguins_Florida_Panthers_vs_Pittsburgh" group-title="Hockey", Florida Panthers vs Pittsburgh Penguins (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_los-angeles-kings-vs-new-york-islanders_Los_Angeles_Kings_vs_New_York_" group-title="Hockey", Los Angeles Kings vs New York Islanders (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_vegas-golden-knights-vs-st-louis-blues_Vegas_Golden_Knights_vs_St_Lou" group-title="Hockey", Vegas Golden Knights vs St. Louis Blues (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_winnipeg-jets-vs-dallas-stars_Winnipeg_Jets_vs_Dallas_Stars" group-title="Hockey", Winnipeg Jets vs Dallas Stars (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_minnesota-wild-vs-calgary-flames_Minnesota_Wild_vs_Calgary_Flam" group-title="Hockey", Minnesota Wild vs Calgary Flames (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_carolina-hurricanes-vs-edmonton-oilers_Carolina_Hurricanes_vs_Edmonto" group-title="Hockey", Carolina Hurricanes vs Edmonton Oilers (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_utah-mammoth-vs-seattle-kraken_Utah_Mammoth_vs_Seattle_Kraken" group-title="Hockey", Utah Mammoth vs Seattle Kraken (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_detroit-red-wings-vs-vancouver-canucks_Detroit_Red_Wings_vs_Vancouver" group-title="Hockey", Detroit Red Wings vs Vancouver Canucks (NHL)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_james-madison-dukes-vs-app-state-mountaineers_James_Madison_Dukes_vs_App_Sta" group-title="Football", James Madison Dukes vs App State Mountaineers (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_liberty-flames-vs-kennesaw-state-owls_Liberty_Flames_vs_Kennesaw_Sta" group-title="Football", Liberty Flames vs Kennesaw State Owls (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_east-carolina-pirates-vs-memphis-tigers_East_Carolina_Pirates_vs_Memph" group-title="Football", East Carolina Pirates vs Memphis Tigers (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_new-england-patriots-vs-chicago-bears_New_England_Patriots_vs_Chicag" group-title="Football", New England Patriots vs Chicago Bears (NFL)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_msc-cruises-united-states-grand-prix_MSC_Cruises_United_States_Gran" group-title="Racing", MSC Cruises United States Grand Prix (Formula 1)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/cricket_ac38ed2a-92dd-4b08-be0b-3cfaefb09b98_Willow" group-title="Cricket", Willow (WILLOW)
