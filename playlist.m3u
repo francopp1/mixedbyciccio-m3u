@@ -1,6 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_chicago-bulls-vs-milwaukee-bucks_Chicago_Bulls_vs_Milwaukee_Buc" group-title="Basketball", Chicago Bulls vs Milwaukee Bucks (NBA)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_manchester-city-vs-aston-villa_Manchester_City_vs_Aston_Villa" group-title="Soccer", Manchester City vs Aston Villa (Premier League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_norwich-city-vs-charlton-athletic_Norwich_City_vs_Charlton_Athle" group-title="Soccer", Norwich City vs Charlton Athletic (EFL Championship)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_millwall-vs-portsmouth_Millwall_vs_Portsmouth" group-title="Soccer", Millwall vs Portsmouth (EFL Championship)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_derby-county-vs-sheffield-united_Derby_County_vs_Sheffield_Unit" group-title="Soccer", Derby County vs Sheffield United (EFL Championship)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_elche-vs-rayo-vallecano_Elche_vs_Rayo_Vallecano" group-title="Soccer", Elche vs Rayo Vallecano (La Liga)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_bologna-vs-cagliari_Bologna_vs_Cagliari" group-title="Soccer", Bologna vs Cagliari (Serie A)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_sassuolo-vs-como_Sassuolo_vs_Como" group-title="Soccer", Sassuolo vs Como (Serie A)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_new-york-knicks-vs-boston-celtics_New_York_Knicks_vs_Boston_Celt" group-title="Basketball", New York Knicks vs Boston Celtics (NBA)
