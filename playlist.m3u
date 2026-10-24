@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_inter-miami-cf-vs-red-bull-new-york_Inter_Miami_CF_vs_Red_Bull_New" group-title="Soccer", Inter Miami CF vs Red Bull New York (MLS)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_chicago-fire-fc-vs-atlanta-united-fc_Chicago_Fire_FC_vs_Atlanta_Uni" group-title="Soccer", Chicago Fire FC vs Atlanta United FC (MLS)
 
 
@@ -36,6 +33,9 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_seattle-sounders-fc-vs-san-diego-fc_Seattle_Sounders_FC_vs_San_Die" group-title="Soccer", Seattle Sounders FC vs San Diego FC (MLS)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_fiorentina-vs-internazionale_Fiorentina_vs_Internazionale" group-title="Soccer", Fiorentina vs Internazionale (Serie A)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_miami-heat-vs-charlotte-hornets_Miami_Heat_vs_Charlotte_Hornet" group-title="Basketball", Miami Heat vs Charlotte Hornets (NBA)
 
 
@@ -58,9 +58,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_golden-state-warriors-vs-phoenix-suns_Golden_State_Warriors_vs_Phoen" group-title="Basketball", Golden State Warriors vs Phoenix Suns (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_los-angeles-kings-vs-new-jersey-devils_Los_Angeles_Kings_vs_New_Jerse" group-title="Hockey", Los Angeles Kings vs New Jersey Devils (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_san-jose-sharks-vs-boston-bruins_San_Jose_Sharks_vs_Boston_Brui" group-title="Hockey", San Jose Sharks vs Boston Bruins (NHL)
@@ -93,58 +90,10 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_minnesota-wild-vs-seattle-kraken_Minnesota_Wild_vs_Seattle_Krak" group-title="Hockey", Minnesota Wild vs Seattle Kraken (NHL)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/combat_ufc-333-volkanovski-vs-evloev_UFC_333_Volkanovski_vs_Evloev" group-title="Combat", UFC 333: Volkanovski vs. Evloev (UFC)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_tampa-bay-rays-vs-milwaukee-brewers_Tampa_Bay_Rays_vs_Milwaukee_Br" group-title="Baseball", Tampa Bay Rays vs Milwaukee Brewers (MLB)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_oregon-ducks-vs-illinois-fighting-illini_Oregon_Ducks_vs_Illinois_Fight" group-title="Football", Oregon Ducks vs Illinois Fighting Illini (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_byu-cougars-vs-ucf-knights_BYU_Cougars_vs_UCF_Knights" group-title="Football", BYU Cougars vs UCF Knights (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_michigan-state-spartans-vs-ucla-bruins_Michigan_State_Spartans_vs_UCL" group-title="Football", Michigan State Spartans vs UCLA Bruins (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_tennessee-volunteers-vs-south-carolina-gamecocks_Tennessee_Volunteers_vs_South_" group-title="Football", Tennessee Volunteers vs South Carolina Gamecocks (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_texas-am-aggies-vs-alabama-crimson-tide_Texas_AM_Aggies_vs_Alabama_Cri" group-title="Football", Texas A&M Aggies vs Alabama Crimson Tide (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_iowa-hawkeyes-vs-minnesota-golden-gophers_Iowa_Hawkeyes_vs_Minnesota_Gol" group-title="Football", Iowa Hawkeyes vs Minnesota Golden Gophers (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_oklahoma-sooners-vs-mississippi-state-bulldogs_Oklahoma_Sooners_vs_Mississipp" group-title="Football", Oklahoma Sooners vs Mississippi State Bulldogs (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_boston-college-eagles-vs-georgia-tech-yellow-jackets_Boston_College_Eagles_vs_Georg" group-title="Football", Boston College Eagles vs Georgia Tech Yellow Jackets (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_north-texas-mean-green-vs-navy-midshipmen_North_Texas_Mean_Green_vs_Navy" group-title="Football", North Texas Mean Green vs Navy Midshipmen (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_hawaii-rainbow-warriors-vs-northern-illinois-huskies_Hawaii_Rainbow_Warriors_vs_Nor" group-title="Football", Hawai'i Rainbow Warriors vs Northern Illinois Huskies (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_sacramento-state-hornets-vs-ball-state-cardinals_Sacramento_State_Hornets_vs_Ba" group-title="Football", Sacramento State Hornets vs Ball State Cardinals (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_bowling-green-falcons-vs-buffalo-bulls_Bowling_Green_Falcons_vs_Buffa" group-title="Football", Bowling Green Falcons vs Buffalo Bulls (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_kansas-state-wildcats-vs-arizona-state-sun-devils_Kansas_State_Wildcats_vs_Arizo" group-title="Football", Kansas State Wildcats vs Arizona State Sun Devils (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_eastern-michigan-eagles-vs-ohio-bobcats_Eastern_Michigan_Eagles_vs_Ohi" group-title="Football", Eastern Michigan Eagles vs Ohio Bobcats (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_ul-monroe-warhawks-vs-troy-trojans_UL_Monroe_Warhawks_vs_Troy_Tro" group-title="Football", UL Monroe Warhawks vs Troy Trojans (NCAAF)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_san-josé-state-spartans-vs-nevada-wolf-pack_San_José_State_Spartans_vs_Nev" group-title="Football", San José State Spartans vs Nevada Wolf Pack (NCAAF)
