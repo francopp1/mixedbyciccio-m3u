@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_as-roma-vs-napoli_AS_Roma_vs_Napoli" group-title="Soccer", AS Roma vs Napoli (Serie A)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_tottenham-hotspur-vs-chelsea_Tottenham_Hotspur_vs_Chelsea" group-title="Soccer", Tottenham Hotspur vs Chelsea (Premier League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_villarreal-vs-valencia_Villarreal_vs_Valencia" group-title="Soccer", Villarreal vs Valencia (La Liga)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_eintracht-frankfurt-vs-borussia-dortmund_Eintracht_Frankfurt_vs_Borussi" group-title="Soccer", Eintracht Frankfurt vs Borussia Dortmund (Bundesliga)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_nashville-sc-vs-cf-montréal_Nashville_SC_vs_CF_Montréal" group-title="Soccer", Nashville SC vs CF Montréal (MLS)
 
 
@@ -148,12 +136,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_california-golden-bears-vs-smu-mustangs_California_Golden_Bears_vs_SMU" group-title="Football", California Golden Bears vs SMU Mustangs (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_rutgers-scarlet-knights-vs-northwestern-wildcats_Rutgers_Scarlet_Knights_vs_Nor" group-title="Football", Rutgers Scarlet Knights vs Northwestern Wildcats (NCAAF)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_west-virginia-mountaineers-vs-tcu-horned-frogs_West_Virginia_Mountaineers_vs_" group-title="Football", West Virginia Mountaineers vs TCU Horned Frogs (NCAAF)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_rice-owls-vs-florida-atlantic-owls_Rice_Owls_vs_Florida_Atlantic_" group-title="Football", Rice Owls vs Florida Atlantic Owls (NCAAF)
