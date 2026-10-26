@@ -1,12 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_real-madrid-vs-barcelona_Real_Madrid_vs_Barcelona" group-title="Soccer", Real Madrid vs Barcelona (La Liga)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_la-galaxy-vs-lafc_LA_Galaxy_vs_LAFC" group-title="Soccer", LA Galaxy vs LAFC (MLS)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_los-angeles-lakers-vs-utah-jazz_Los_Angeles_Lakers_vs_Utah_Jaz" group-title="Basketball", Los Angeles Lakers vs Utah Jazz (NBA)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_indiana-pacers-vs-brooklyn-nets_Indiana_Pacers_vs_Brooklyn_Net" group-title="Basketball", Indiana Pacers vs Brooklyn Nets (NBA)
@@ -40,15 +34,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_denver-broncos-vs-arizona-cardinals_Denver_Broncos_vs_Arizona_Card" group-title="Football", Denver Broncos vs Arizona Cardinals (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_green-bay-packers-vs-detroit-lions_Green_Bay_Packers_vs_Detroit_L" group-title="Football", Green Bay Packers vs Detroit Lions (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_los-angeles-rams-vs-las-vegas-raiders_Los_Angeles_Rams_vs_Las_Vegas_" group-title="Football", Los Angeles Rams vs Las Vegas Raiders (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_kansas-city-chiefs-vs-seattle-seahawks_Kansas_City_Chiefs_vs_Seattle_" group-title="Football", Kansas City Chiefs vs Seattle Seahawks (NFL)
