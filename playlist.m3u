@@ -21,15 +21,6 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_internazionale-vs-venezia_Internazionale_vs_Venezia" group-title="Soccer", Internazionale vs Venezia (Serie A)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_alavés-vs-anaitasuna_Alavés_vs_Anaitasuna" group-title="Soccer", Alavés vs Anaitasuna (Copa del Rey)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_levante-vs-cd-tarancon_Levante_vs_CD_Tarancon" group-title="Soccer", Levante vs CD Tarancon (Copa del Rey)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_brighton-hove-albion-vs-manchester-city_Brighton__Hove_Albion_vs_Manch" group-title="Soccer", Brighton & Hove Albion vs Manchester City (Carabao Cup)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_aston-villa-vs-afc-bournemouth_Aston_Villa_vs_AFC_Bournemouth" group-title="Soccer", Aston Villa vs AFC Bournemouth (Carabao Cup)
 
 
@@ -58,15 +49,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_chelsea-vs-liverpool_Chelsea_vs_Liverpool" group-title="Soccer", Chelsea vs Liverpool (Carabao Cup)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_real-betis-vs-cd-artistico-navalcarnero_Real_Betis_vs_CD_Artistico_Nav" group-title="Soccer", Real Betis vs CD Artistico Navalcarnero (Copa del Rey)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_celta-vigo-vs-salamanca-uds_Celta_Vigo_vs_Salamanca_UDS" group-title="Soccer", Celta Vigo vs Salamanca UDS (Copa del Rey)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_valencia-vs-tavernes-de-la-valldigna_Valencia_vs_Tavernes_de_la_Val" group-title="Soccer", Valencia vs Tavernes de la Valldigna (Copa del Rey)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_cf-montréal-vs-charlotte-fc_CF_Montréal_vs_Charlotte_FC" group-title="Soccer", CF Montréal vs Charlotte FC (MLS)
@@ -102,6 +84,18 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_portland-timbers-vs-st-louis-city-sc_Portland_Timbers_vs_St_Louis_C" group-title="Soccer", Portland Timbers vs St. Louis CITY SC (MLS)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_colorado-rapids-vs-san-jose-earthquakes_Colorado_Rapids_vs_San_Jose_Ea" group-title="Soccer", Colorado Rapids vs San Jose Earthquakes (MLS)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_houston-dynamo-fc-vs-seattle-sounders-fc_Houston_Dynamo_FC_vs_Seattle_S" group-title="Soccer", Houston Dynamo FC vs Seattle Sounders FC (MLS)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_san-diego-fc-vs-vancouver-whitecaps_San_Diego_FC_vs_Vancouver_Whit" group-title="Soccer", San Diego FC vs Vancouver Whitecaps (MLS)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_b70eb02c-bba1-4fb4-ae41-7368ae816ea5_Brighton__Hove_Albion_at_Manch" group-title="Soccer", Brighton & Hove Albion at Manchester City (Carabao Cup)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_miami-heat-vs-atlanta-hawks_Miami_Heat_vs_Atlanta_Hawks" group-title="Basketball", Miami Heat vs Atlanta Hawks (NBA)
 
 
@@ -129,10 +123,25 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_denver-nuggets-vs-new-orleans-pelicans_Denver_Nuggets_vs_New_Orleans_" group-title="Basketball", Denver Nuggets vs New Orleans Pelicans (NBA)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_san-antonio-spurs-vs-utah-jazz_San_Antonio_Spurs_vs_Utah_Jazz" group-title="Basketball", San Antonio Spurs vs Utah Jazz (NBA)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_oklahoma-city-thunder-vs-dallas-mavericks_Oklahoma_City_Thunder_vs_Dalla" group-title="Basketball", Oklahoma City Thunder vs Dallas Mavericks (NBA)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_los-angeles-lakers-vs-la-clippers_Los_Angeles_Lakers_vs_LA_Clipp" group-title="Basketball", Los Angeles Lakers vs LA Clippers (NBA)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_philadelphia-flyers-vs-washington-capitals_Philadelphia_Flyers_vs_Washing" group-title="Hockey", Philadelphia Flyers vs Washington Capitals (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_calgary-flames-vs-edmonton-oilers_Calgary_Flames_vs_Edmonton_Oil" group-title="Hockey", Calgary Flames vs Edmonton Oilers (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_new-jersey-devils-vs-colorado-avalanche_New_Jersey_Devils_vs_Colorado_" group-title="Hockey", New Jersey Devils vs Colorado Avalanche (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_toronto-maple-leafs-vs-seattle-kraken_Toronto_Maple_Leafs_vs_Seattle" group-title="Hockey", Toronto Maple Leafs vs Seattle Kraken (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/baseball_milwaukee-brewers-vs-tampa-bay-rays_Milwaukee_Brewers_vs_Tampa_Bay" group-title="Baseball", Milwaukee Brewers vs Tampa Bay Rays (MLB)
