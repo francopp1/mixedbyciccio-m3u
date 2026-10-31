@@ -1,6 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_charlotte-hornets-vs-washington-wizards_Charlotte_Hornets_vs_Washingto" group-title="Basketball", Charlotte Hornets vs Washington Wizards (NBA)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_manchester-united-vs-chelsea_Manchester_United_vs_Chelsea" group-title="Soccer", Manchester United vs Chelsea (Premier League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_birmingham-city-vs-lincoln-city_Birmingham_City_vs_Lincoln_Cit" group-title="Soccer", Birmingham City vs Lincoln City (EFL Championship)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_watford-vs-norwich-city_Watford_vs_Norwich_City" group-title="Soccer", Watford vs Norwich City (EFL Championship)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_preston-north-end-vs-stoke-city_Preston_North_End_vs_Stoke_Cit" group-title="Soccer", Preston North End vs Stoke City (EFL Championship)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_atlético-madrid-vs-levante_Atlético_Madrid_vs_Levante" group-title="Soccer", Atlético Madrid vs Levante (La Liga)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_chicago-bulls-vs-boston-celtics_Chicago_Bulls_vs_Boston_Celtic" group-title="Basketball", Chicago Bulls vs Boston Celtics (NBA)
@@ -28,9 +40,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_denver-nuggets-vs-phoenix-suns_Denver_Nuggets_vs_Phoenix_Suns" group-title="Basketball", Denver Nuggets vs Phoenix Suns (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_new-jersey-devils-vs-vegas-golden-knights_New_Jersey_Devils_vs_Vegas_Gol" group-title="Hockey", New Jersey Devils vs Vegas Golden Knights (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_winnipeg-jets-vs-florida-panthers_Winnipeg_Jets_vs_Florida_Panth" group-title="Hockey", Winnipeg Jets vs Florida Panthers (NHL)
