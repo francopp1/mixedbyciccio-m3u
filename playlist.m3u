@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_seattle-sounders-fc-vs-vancouver-whitecaps_Seattle_Sounders_FC_vs_Vancouv" group-title="Soccer", Seattle Sounders FC vs Vancouver Whitecaps (MLS)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_toronto-fc-vs-atlanta-united-fc_Toronto_FC_vs_Atlanta_United_F" group-title="Soccer", Toronto FC vs Atlanta United FC (MLS)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_red-bull-new-york-vs-nashville-sc_Red_Bull_New_York_vs_Nashville" group-title="Soccer", Red Bull New York vs Nashville SC (MLS)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_inter-miami-cf-vs-new-england-revolution_Inter_Miami_CF_vs_New_England_" group-title="Soccer", Inter Miami CF vs New England Revolution (MLS)
 
 
@@ -16,12 +7,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_houston-dynamo-fc-vs-portland-timbers_Houston_Dynamo_FC_vs_Portland_" group-title="Soccer", Houston Dynamo FC vs Portland Timbers (MLS)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_boston-celtics-vs-orlando-magic_Boston_Celtics_vs_Orlando_Magi" group-title="Basketball", Boston Celtics vs Orlando Magic (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_brooklyn-nets-vs-indiana-pacers_Brooklyn_Nets_vs_Indiana_Pacer" group-title="Basketball", Brooklyn Nets vs Indiana Pacers (NBA)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_la-clippers-vs-golden-state-warriors_LA_Clippers_vs_Golden_State_Wa" group-title="Basketball", LA Clippers vs Golden State Warriors (NBA)
@@ -33,12 +18,6 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_liberty-flames-vs-high-point-panthers_Liberty_Flames_vs_High_Point_P" group-title="Basketball", Liberty Flames vs High Point Panthers (NCAA Men's Basketball)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_minnesota-wild-vs-washington-capitals_Minnesota_Wild_vs_Washington_C" group-title="Hockey", Minnesota Wild vs Washington Capitals (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_utah-mammoth-vs-philadelphia-flyers_Utah_Mammoth_vs_Philadelphia_F" group-title="Hockey", Utah Mammoth vs Philadelphia Flyers (NHL)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_edmonton-oilers-vs-new-york-rangers_Edmonton_Oilers_vs_New_York_Ra" group-title="Hockey", Edmonton Oilers vs New York Rangers (NHL)
 
 
@@ -46,15 +25,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_los-angeles-chargers-vs-los-angeles-rams_Los_Angeles_Chargers_vs_Los_An" group-title="Football", Los Angeles Chargers vs Los Angeles Rams (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_kansas-city-chiefs-vs-denver-broncos_Kansas_City_Chiefs_vs_Denver_B" group-title="Football", Kansas City Chiefs vs Denver Broncos (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_new-england-patriots-vs-miami-dolphins_New_England_Patriots_vs_Miami_" group-title="Football", New England Patriots vs Miami Dolphins (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_philadelphia-eagles-vs-washington-commanders_Philadelphia_Eagles_vs_Washing" group-title="Football", Philadelphia Eagles vs Washington Commanders (NFL)
