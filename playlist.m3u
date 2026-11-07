@@ -1,15 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_northeastern-huskies-vs-virginia-cavaliers_Northeastern_Huskies_vs_Virgin" group-title="Basketball", Northeastern Huskies vs Virginia Cavaliers (NCAA Men's Basketball)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_tottenham-hotspur-vs-leeds-united_Tottenham_Hotspur_vs_Leeds_Uni" group-title="Soccer", Tottenham Hotspur vs Leeds United (Premier League)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_norwich-city-vs-bristol-city_Norwich_City_vs_Bristol_City" group-title="Soccer", Norwich City vs Bristol City (EFL Championship)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_stoke-city-vs-portsmouth_Stoke_City_vs_Portsmouth" group-title="Soccer", Stoke City vs Portsmouth (EFL Championship)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_wolverhampton-wanderers-vs-wrexham_Wolverhampton_Wanderers_vs_Wre" group-title="Soccer", Wolverhampton Wanderers vs Wrexham (EFL Championship)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_racing-santander-vs-málaga_Racing_Santander_vs_Málaga" group-title="Soccer", Racing Santander vs Málaga (La Liga)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_frosinone-vs-cagliari_Frosinone_vs_Cagliari" group-title="Soccer", Frosinone vs Cagliari (Serie A)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_lecce-vs-torino_Lecce_vs_Torino" group-title="Soccer", Lecce vs Torino (Serie A)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_washington-wizards-vs-atlanta-hawks_Washington_Wizards_vs_Atlanta_" group-title="Basketball", Washington Wizards vs Atlanta Hawks (NBA)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_boston-celtics-vs-charlotte-hornets_Boston_Celtics_vs_Charlotte_Ho" group-title="Basketball", Boston Celtics vs Charlotte Hornets (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_james-madison-dukes-vs-kentucky-wildcats_James_Madison_Dukes_vs_Kentuck" group-title="Basketball", James Madison Dukes vs Kentucky Wildcats (NCAA Men's Basketball)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_philadelphia-76ers-vs-cleveland-cavaliers_Philadelphia_76ers_vs_Clevelan" group-title="Basketball", Philadelphia 76ers vs Cleveland Cavaliers (NBA)
