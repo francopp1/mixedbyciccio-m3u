@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_berkhamsted-vs-plymouth-parkway_Berkhamsted_vs_Plymouth_Parkwa" group-title="Soccer", Berkhamsted vs Plymouth Parkway (FA Cup)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_los-angeles-lakers-vs-atlanta-hawks_Los_Angeles_Lakers_vs_Atlanta_" group-title="Basketball", Los Angeles Lakers vs Atlanta Hawks (NBA)
 
 
@@ -39,7 +36,16 @@
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_san-antonio-spurs-vs-phoenix-suns_San_Antonio_Spurs_vs_Phoenix_S" group-title="Basketball", San Antonio Spurs vs Phoenix Suns (NBA)
 
 
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_new-orleans-pelicans-vs-golden-state-warriors_New_Orleans_Pelicans_vs_Golden" group-title="Basketball", New Orleans Pelicans vs Golden State Warriors (NBA)
+
+
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_new-york-rangers-vs-edmonton-oilers_New_York_Rangers_vs_Edmonton_O" group-title="Hockey", New York Rangers vs Edmonton Oilers (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_philadelphia-flyers-vs-vancouver-canucks_Philadelphia_Flyers_vs_Vancouv" group-title="Hockey", Philadelphia Flyers vs Vancouver Canucks (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_new-york-islanders-vs-san-jose-sharks_New_York_Islanders_vs_San_Jose" group-title="Hockey", New York Islanders vs San Jose Sharks (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
