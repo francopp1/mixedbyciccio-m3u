@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_israel-vs-kosovo_Israel_vs_Kosovo" group-title="Soccer", Israel vs Kosovo (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_hungary-vs-georgia_Hungary_vs_Georgia" group-title="Soccer", Hungary vs Georgia (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_wales-vs-norway_Wales_vs_Norway" group-title="Soccer", Wales vs Norway (UEFA Nations League)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_republic-of-ireland-vs-austria_Republic_of_Ireland_vs_Austria" group-title="Soccer", Republic of Ireland vs Austria (UEFA Nations League)
 
 
@@ -79,6 +70,12 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_san-jose-sharks-vs-utah-mammoth_San_Jose_Sharks_vs_Utah_Mammot" group-title="Hockey", San Jose Sharks vs Utah Mammoth (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_new-york-islanders-vs-anaheim-ducks_New_York_Islanders_vs_Anaheim_" group-title="Hockey", New York Islanders vs Anaheim Ducks (NHL)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_calgary-flames-vs-los-angeles-kings_Calgary_Flames_vs_Los_Angeles_" group-title="Hockey", Calgary Flames vs Los Angeles Kings (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/combat_ufc-334-gane-vs-hokit_UFC_334_Gane_vs_Hokit" group-title="Combat", UFC 334: Gane vs. Hokit (UFC)
@@ -232,6 +229,24 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_north-texas-mean-green-vs-utsa-roadrunners_North_Texas_Mean_Green_vs_UTSA" group-title="Football", North Texas Mean Green vs UTSA Roadrunners (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_texas-tech-red-raiders-vs-oklahoma-state-cowboys_Texas_Tech_Red_Raiders_vs_Okla" group-title="Football", Texas Tech Red Raiders vs Oklahoma State Cowboys (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_utah-state-aggies-vs-san-diego-state-aztecs_Utah_State_Aggies_vs_San_Diego" group-title="Football", Utah State Aggies vs San Diego State Aztecs (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_wyoming-cowboys-vs-utep-miners_Wyoming_Cowboys_vs_UTEP_Miners" group-title="Football", Wyoming Cowboys vs UTEP Miners (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_utah-utes-vs-arizona-wildcats_Utah_Utes_vs_Arizona_Wildcats" group-title="Football", Utah Utes vs Arizona Wildcats (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_colorado-state-rams-vs-washington-state-cougars_Colorado_State_Rams_vs_Washing" group-title="Football", Colorado State Rams vs Washington State Cougars (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_north-dakota-state-bison-vs-hawaii-rainbow-warriors_North_Dakota_State_Bison_vs_Ha" group-title="Football", North Dakota State Bison vs Hawai'i Rainbow Warriors (NCAAF)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
