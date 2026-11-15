@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_albania-vs-belarus_Albania_vs_Belarus" group-title="Soccer", Albania vs Belarus (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_san-marino-vs-finland_San_Marino_vs_Finland" group-title="Soccer", San Marino vs Finland (UEFA Nations League)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_italy-vs-belgium_Italy_vs_Belgium" group-title="Soccer", Italy vs Belgium (UEFA Nations League)
 
 
@@ -16,18 +10,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_england-vs-spain_England_vs_Spain" group-title="Soccer", England vs Spain (UEFA Nations League)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_indiana-pacers-vs-philadelphia-76ers_Indiana_Pacers_vs_Philadelphia" group-title="Basketball", Indiana Pacers vs Philadelphia 76ers (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_louisville-cardinals-vs-memphis-tigers_Louisville_Cardinals_vs_Memphi" group-title="Basketball", Louisville Cardinals vs Memphis Tigers (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_boise-state-broncos-vs-nebraska-cornhuskers_Boise_State_Broncos_vs_Nebrask" group-title="Basketball", Boise State Broncos vs Nebraska Cornhuskers (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_william-mary-tribe-vs-michigan-wolverines_William__Mary_Tribe_vs_Michiga" group-title="Basketball", William & Mary Tribe vs Michigan Wolverines (NCAA Men's Basketball)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_baylor-bears-vs-texas-longhorns_Baylor_Bears_vs_Texas_Longhorn" group-title="Basketball", Baylor Bears vs Texas Longhorns (NCAA Men's Basketball)
@@ -79,33 +61,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_new-england-patriots-vs-detroit-lions_New_England_Patriots_vs_Detroi" group-title="Football", New England Patriots vs Detroit Lions (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_kansas-city-chiefs-vs-atlanta-falcons_Kansas_City_Chiefs_vs_Atlanta_" group-title="Football", Kansas City Chiefs vs Atlanta Falcons (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_houston-texans-vs-cleveland-browns_Houston_Texans_vs_Cleveland_Br" group-title="Football", Houston Texans vs Cleveland Browns (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_minnesota-vikings-vs-green-bay-packers_Minnesota_Vikings_vs_Green_Bay" group-title="Football", Minnesota Vikings vs Green Bay Packers (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_jacksonville-jaguars-vs-tennessee-titans_Jacksonville_Jaguars_vs_Tennes" group-title="Football", Jacksonville Jaguars vs Tennessee Titans (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_miami-dolphins-vs-indianapolis-colts_Miami_Dolphins_vs_Indianapolis" group-title="Football", Miami Dolphins vs Indianapolis Colts (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_carolina-panthers-vs-new-orleans-saints_Carolina_Panthers_vs_New_Orlea" group-title="Football", Carolina Panthers vs New Orleans Saints (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_buffalo-bills-vs-new-york-jets_Buffalo_Bills_vs_New_York_Jets" group-title="Football", Buffalo Bills vs New York Jets (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_ole-miss-rebels-vs-oklahoma-sooners_Ole_Miss_Rebels_vs_Oklahoma_So" group-title="Football", Ole Miss Rebels vs Oklahoma Sooners (NCAAF)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_seattle-seahawks-vs-las-vegas-raiders_Seattle_Seahawks_vs_Las_Vegas_" group-title="Football", Seattle Seahawks vs Las Vegas Raiders (NFL)
