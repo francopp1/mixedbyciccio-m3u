@@ -1,24 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_fc-cologne-vs-bayern-munich_FC_Cologne_vs_Bayern_Munich" group-title="Soccer", FC Cologne vs Bayern Munich (Bundesliga)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_fulham-vs-manchester-city_Fulham_vs_Manchester_City" group-title="Soccer", Fulham vs Manchester City (Premier League)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_le-havre-ac-vs-troyes_Le_Havre_AC_vs_Troyes" group-title="Soccer", Le Havre AC vs Troyes (Ligue 1)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_queens-park-rangers-vs-millwall_Queens_Park_Rangers_vs_Millwal" group-title="Soccer", Queens Park Rangers vs Millwall (EFL Championship)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_espanyol-vs-athletic-club_Espanyol_vs_Athletic_Club" group-title="Soccer", Espanyol vs Athletic Club (La Liga)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_cardiff-city-vs-norwich-city_Cardiff_City_vs_Norwich_City" group-title="Soccer", Cardiff City vs Norwich City (EFL Championship)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_manhattan-jaspers-vs-miami-hurricanes_Manhattan_Jaspers_vs_Miami_Hur" group-title="Basketball", Manhattan Jaspers vs Miami Hurricanes (NCAA Men's Basketball)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_derby-county-vs-southampton_Derby_County_vs_Southampton" group-title="Soccer", Derby County vs Southampton (EFL Championship)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_deportivo-vs-alavés_Deportivo_vs_Alavés" group-title="Soccer", Deportivo vs Alavés (La Liga)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_cagliari-vs-como_Cagliari_vs_Como" group-title="Soccer", Cagliari vs Como (Serie A)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_lecce-vs-lazio_Lecce_vs_Lazio" group-title="Soccer", Lecce vs Lazio (Serie A)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_charlotte-hornets-vs-atlanta-hawks_Charlotte_Hornets_vs_Atlanta_H" group-title="Basketball", Charlotte Hornets vs Atlanta Hawks (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_loyola-maryland-greyhounds-vs-virginia-cavaliers_Loyola_Maryland_Greyhounds_vs_" group-title="Basketball", Loyola Maryland Greyhounds vs Virginia Cavaliers (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_coastal-carolina-chanticleers-vs-tennessee-volunteers_Coastal_Carolina_Chanticleers_" group-title="Basketball", Coastal Carolina Chanticleers vs Tennessee Volunteers (NCAA Men's Basketball)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_orlando-magic-vs-brooklyn-nets_Orlando_Magic_vs_Brooklyn_Nets" group-title="Basketball", Orlando Magic vs Brooklyn Nets (NBA)
