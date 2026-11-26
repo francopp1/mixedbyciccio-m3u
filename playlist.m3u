@@ -1,78 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_south-carolina-gamecocks-vs-usc-trojans_South_Carolina_Gamecocks_vs_US" group-title="Basketball", South Carolina Gamecocks vs USC Trojans (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_miami-heat-vs-philadelphia-76ers_Miami_Heat_vs_Philadelphia_76e" group-title="Basketball", Miami Heat vs Philadelphia 76ers (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_southern-jaguars-vs-nebraska-cornhuskers_Southern_Jaguars_vs_Nebraska_C" group-title="Basketball", Southern Jaguars vs Nebraska Cornhuskers (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_memphis-tigers-vs-penn-state-nittany-lions_Memphis_Tigers_vs_Penn_State_N" group-title="Basketball", Memphis Tigers vs Penn State Nittany Lions (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_byu-cougars-vs-providence-friars_BYU_Cougars_vs_Providence_Fria" group-title="Basketball", BYU Cougars vs Providence Friars (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_chicago-bulls-vs-charlotte-hornets_Chicago_Bulls_vs_Charlotte_Hor" group-title="Basketball", Chicago Bulls vs Charlotte Hornets (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_uconn-huskies-vs-duke-blue-devils_UConn_Huskies_vs_Duke_Blue_Dev" group-title="Basketball", UConn Huskies vs Duke Blue Devils (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_cleveland-cavaliers-vs-new-york-knicks_Cleveland_Cavaliers_vs_New_Yor" group-title="Basketball", Cleveland Cavaliers vs New York Knicks (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_minnesota-timberwolves-vs-oklahoma-city-thunder_Minnesota_Timberwolves_vs_Okla" group-title="Basketball", Minnesota Timberwolves vs Oklahoma City Thunder (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_la-clippers-vs-memphis-grizzlies_LA_Clippers_vs_Memphis_Grizzli" group-title="Basketball", LA Clippers vs Memphis Grizzlies (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_brooklyn-nets-vs-milwaukee-bucks_Brooklyn_Nets_vs_Milwaukee_Buc" group-title="Basketball", Brooklyn Nets vs Milwaukee Bucks (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_phoenix-suns-vs-houston-rockets_Phoenix_Suns_vs_Houston_Rocket" group-title="Basketball", Phoenix Suns vs Houston Rockets (NBA)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/soccer_mjällby-aif-vs-kairat-almaty_Mjällby_AIF_vs_Kairat_Almaty" group-title="Soccer", Mjällby AIF vs Kairat Almaty (UEFA Conference League)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_sacramento-kings-vs-golden-state-warriors_Sacramento_Kings_vs_Golden_Sta" group-title="Basketball", Sacramento Kings vs Golden State Warriors (NBA)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_san-antonio-spurs-vs-portland-trail-blazers_San_Antonio_Spurs_vs_Portland_" group-title="Basketball", San Antonio Spurs vs Portland Trail Blazers (NBA)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_winnipeg-jets-vs-boston-bruins_Winnipeg_Jets_vs_Boston_Bruins" group-title="Hockey", Winnipeg Jets vs Boston Bruins (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_new-york-rangers-vs-buffalo-sabres_New_York_Rangers_vs_Buffalo_Sa" group-title="Hockey", New York Rangers vs Buffalo Sabres (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_carolina-hurricanes-vs-tampa-bay-lightning_Carolina_Hurricanes_vs_Tampa_B" group-title="Hockey", Carolina Hurricanes vs Tampa Bay Lightning (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_ottawa-senators-vs-florida-panthers_Ottawa_Senators_vs_Florida_Pan" group-title="Hockey", Ottawa Senators vs Florida Panthers (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_st-louis-blues-vs-new-york-islanders_St_Louis_Blues_vs_New_York_Isl" group-title="Hockey", St. Louis Blues vs New York Islanders (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_calgary-flames-vs-pittsburgh-penguins_Calgary_Flames_vs_Pittsburgh_P" group-title="Hockey", Calgary Flames vs Pittsburgh Penguins (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_philadelphia-flyers-vs-washington-capitals_Philadelphia_Flyers_vs_Washing" group-title="Hockey", Philadelphia Flyers vs Washington Capitals (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_new-jersey-devils-vs-columbus-blue-jackets_New_Jersey_Devils_vs_Columbus_" group-title="Hockey", New Jersey Devils vs Columbus Blue Jackets (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_vancouver-canucks-vs-detroit-red-wings_Vancouver_Canucks_vs_Detroit_R" group-title="Hockey", Vancouver Canucks vs Detroit Red Wings (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_nashville-predators-vs-dallas-stars_Nashville_Predators_vs_Dallas_" group-title="Hockey", Nashville Predators vs Dallas Stars (NHL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_utah-mammoth-vs-minnesota-wild_Utah_Mammoth_vs_Minnesota_Wild" group-title="Hockey", Utah Mammoth vs Minnesota Wild (NHL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/hockey_montreal-canadiens-vs-colorado-avalanche_Montreal_Canadiens_vs_Colorado" group-title="Hockey", Montreal Canadiens vs Colorado Avalanche (NHL)
@@ -85,9 +19,6 @@
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_green-bay-packers-vs-los-angeles-rams_Green_Bay_Packers_vs_Los_Angel" group-title="Football", Green Bay Packers vs Los Angeles Rams (NFL)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
