@@ -1,42 +1,36 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_arkansas-razorbacks-vs-michigan-state-spartans_Arkansas_Razorbacks_vs_Michiga" group-title="Basketball", Arkansas Razorbacks vs Michigan State Spartans (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_smu-mustangs-vs-lsu-tigers_SMU_Mustangs_vs_LSU_Tigers" group-title="Basketball", SMU Mustangs vs LSU Tigers (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_louisville-cardinals-vs-st-johns-red-storm_Louisville_Cardinals_vs_St_Joh" group-title="Basketball", Louisville Cardinals vs St. John's Red Storm (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_alabama-crimson-tide-vs-kansas-state-wildcats_Alabama_Crimson_Tide_vs_Kansas" group-title="Basketball", Alabama Crimson Tide vs Kansas State Wildcats (NCAA Men's Basketball)
-
-
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_texas-tech-red-raiders-vs-oregon-ducks_Texas_Tech_Red_Raiders_vs_Oreg" group-title="Basketball", Texas Tech Red Raiders vs Oregon Ducks (NCAA Men's Basketball)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_baylor-bears-vs-gonzaga-bulldogs_Baylor_Bears_vs_Gonzaga_Bulldo" group-title="Basketball", Baylor Bears vs Gonzaga Bulldogs (NCAA Men's Basketball)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_usc-trojans-vs-utah-state-aggies_USC_Trojans_vs_Utah_State_Aggi" group-title="Basketball", USC Trojans vs Utah State Aggies (NCAA Men's Basketball)
-
-
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_ucla-bruins-vs-saint-marys-gaels_UCLA_Bruins_vs_Saint_Marys_Gae" group-title="Basketball", UCLA Bruins vs Saint Mary's Gaels (NCAA Men's Basketball)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/basketball_virginia-cavaliers-vs-xavier-musketeers_Virginia_Cavaliers_vs_Xavier_M" group-title="Basketball", Virginia Cavaliers vs Xavier Musketeers (NCAA Men's Basketball)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_dac18f6b-2340-4b28-b4fe-5f4682753764_RedZone" group-title="Football", RedZone (NFL)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_philadelphia-eagles-vs-dallas-cowboys_Philadelphia_Eagles_vs_Dallas_" group-title="Football", Philadelphia Eagles vs Dallas Cowboys (NFL)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_mississippi-state-bulldogs-vs-ole-miss-rebels_Mississippi_State_Bulldogs_vs_" group-title="Football", Mississippi State Bulldogs vs Ole Miss Rebels (NCAAF)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_tcu-horned-frogs-vs-texas-tech-red-raiders_TCU_Horned_Frogs_vs_Texas_Tech" group-title="Football", TCU Horned Frogs vs Texas Tech Red Raiders (NCAAF)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_tulsa-golden-hurricane-vs-utsa-roadrunners_Tulsa_Golden_Hurricane_vs_UTSA" group-title="Football", Tulsa Golden Hurricane vs UTSA Roadrunners (NCAAF)
 
 
-#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_kansas-city-chiefs-vs-buffalo-bills_Kansas_City_Chiefs_vs_Buffalo_" group-title="Football", Kansas City Chiefs vs Buffalo Bills (NFL)
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_buffalo-bulls-vs-akron-zips_Buffalo_Bulls_vs_Akron_Zips" group-title="Football", Buffalo Bulls vs Akron Zips (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_toledo-rockets-vs-ohio-bobcats_Toledo_Rockets_vs_Ohio_Bobcats" group-title="Football", Toledo Rockets vs Ohio Bobcats (NCAAF)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/football_nebraska-cornhuskers-vs-iowa-hawkeyes_Nebraska_Cornhuskers_vs_Iowa_H" group-title="Football", Nebraska Cornhuskers vs Iowa Hawkeyes (NCAAF)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_2e10eb11-1329-49b1-b671-c9f1c9a6785a_Sky_Sports_F1" group-title="Racing", Sky Sports F1 (F1)
+
+
+#EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/racing_qatar-airways-qatar-grand-prix_Qatar_Airways_Qatar_Grand_Prix" group-title="Racing", Qatar Airways Qatar Grand Prix (Formula 1)
 
 
 #EXTINF:-1 tvg-logo="https://streamfree.top/thumbnails/tennis_4a2030e3-f635-4c34-883b-9039d0d7a9d1_Sky_Sports_Tennis" group-title="Tennis", Sky Sports Tennis (SKY)
